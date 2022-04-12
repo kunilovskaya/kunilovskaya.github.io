@@ -64,7 +64,7 @@ blockquote {
 
 .card {
   background-color: var(--global-card-bg-color);
-  
+
   img {
     width: 100%;
   }
@@ -99,7 +99,8 @@ blockquote {
   .address {
     margin-bottom: 5px;
     margin-top: 5px;
-    font-family: monospace;
+    text-align: center;
+    font-family: sans-serif;
     p {
       display: inline-block;
       margin: 0;
@@ -132,10 +133,12 @@ blockquote {
 // Navbar customization
 
 .navbar {
+  position: relative;
   box-shadow: none;
   border-bottom: 1px solid var(--global-divider-color);
   background-color: var(--global-bg-color);
   opacity: 0.95;
+
 }
 .navbar .dropdown-menu {
   background-color: var(--global-bg-color);
@@ -164,6 +167,10 @@ blockquote {
     }
   }
   .navbar-brand {
+    //transform: translateX(-50%);  These moves my name on other pages to the right
+    //left: 50%;
+    //position: absolute;
+    //width: 200px; /* no height needed ... image will resize automagically */
     color: var(--global-text-color);
   }
   .navbar-nav .nav-item .nav-link {
@@ -181,13 +188,11 @@ blockquote {
       }
   }
   .navbar-brand.social {
-    padding-bottom: 0;
-    padding-top: 0;
-    font-size: 1.7rem;
+    font-size: 1rem;
     a {
       i::before {
         color: var(--global-text-color);
-        transition-property: all 0.2s ease-in-out;
+        //transition-property: all 0.2s ease-in-out;
       }
       &:hover {
         i::before {
@@ -236,13 +241,16 @@ blockquote {
 // Social (bottom)
 
 .social {
-  text-align: center;
+  position: relative; // this changes the position of social net icons
+   top:  -1120px;  // 600px;  the first pair is for relative position; the second is for absolute
+   left: 0px;  // 1115px;
+  //text-align: -moz-right;
   .contact-icons {
-    font-size: 4rem;
+    font-size: 1.5rem; //smaller icons size
     a {
       i::before {
         color: var(--global-text-color);
-        transition-property: all 0.2s ease-in-out;
+        transition-property: all // 0.2s ease-in-out;  # this changes colours
       }
       &:hover {
         i::before {
@@ -486,7 +494,7 @@ footer.sticky-bottom {
         max-height: 0px;
         overflow: hidden;
         text-align: justify;
-        transition-property: 0.15s ease;
+        //transition-property: 0.15s ease;
         -moz-transition: 0.15s ease;
         -ms-transition: 0.15s ease;
         -o-transition: 0.15s ease;
@@ -504,7 +512,7 @@ footer.sticky-bottom {
       }
       .hidden.open {
         max-height: 100em;
-        transition-property: 0.15s ease;
+        //transition-property: 0.15s ease;
         -moz-transition: 0.15s ease;
         -ms-transition: 0.15s ease;
         -o-transition: 0.15s ease;
@@ -551,7 +559,7 @@ html.transition *,
 html.transition *:before,
 html.transition *:after {
   transition: all 750ms !important;
-  transition-delay: 0 !important;
+  //transition-delay: 0 !important;
 }
 
 // Extra Markdown style (post Customization)

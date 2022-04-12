@@ -2,23 +2,31 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: linguistics, contrastive and computational
 
 profile:
-  align: right
-  image: prof_pic.jpg
+  align: center
+  image: bham_vert.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p><a href="http://rgcl.wlv.ac.uk/" target="_blank">RGCL</a></p>
+    <p>Wolverhamton, UK</p>
+    <p>PhD Researcher</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I completed my first PhD (Candidate of Science) in Contrastive Linguistics in 2004 (adviser: Olga Brodovich, Saint Petersburg University).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+In 2019, I left an Associate Professor position at a Translation Studies department to do a PhD research on human translation quality estimation.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research is focused on computational approaches in translationese studies, building <a href="https://www.rus-ltc.org/static/html/about.html" target="_blank">learner parallel</a> and comparable corpora.
+
+**Keywords:**
+<ul>
+    <li>translation quality estimation, learner translations, error annotation;</li>
+    <li>machine learning, distributional semantics</li>
+    <li>languages varieties, register studies, text complexity</li>
+    <li>digital humanities</li>
+</ul>
