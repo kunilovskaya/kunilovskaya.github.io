@@ -7,13 +7,18 @@ first_name: Maria
 middle_name:
 last_name: Kunilovskaya
 email: maria.kunilovskaya@wlv.ac.uk
-description: a contrastive linguist turned computational
-footer_text: ----
+description: >
+  a contrastive linguist turned computational
+footer_text:
 keywords: translation quality estimation, learner translations, error annotation,
   machine learning, languages varieties, register studies, text complexity # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+
+source_path: https://github.com/alshedivat/al-folio
+copyright_url: https://opensource.org/licenses/MIT
+copyright_icon:
 
 url: https://kunilovskaya.github.io # the base hostname & protocol for your site
 baseurl:
