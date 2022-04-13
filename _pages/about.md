@@ -31,4 +31,4 @@ My research is focused on computational approaches in translationese studies, bu
     <li>languages varieties, register studies, text complexity</li>
     <li>digital humanities</li>
 </ul>
-Download <a href="../../../latex/en_kunilovskaya_academic-CV_Apr12-2022.pdf" target="blank">curriculum vitae</a>
+Download <a href="../../../latex/en_kunilovskaya_academic-CV_Apr12-2022.pdf" target="blank">curriculum vitae</a>; <a href="../../../latex/kunilovskaya_europass_13Apr2022.pdf" target="blank">Europass</a>
