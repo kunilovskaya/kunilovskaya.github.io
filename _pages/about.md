@@ -16,8 +16,8 @@ profile:
 social: true  # includes social icons before news
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-
 ---
+
 I completed my first PhD (Candidate of Science) in Contrastive Linguistics in 2004 (adviser: Olga Brodovich, Saint Petersburg University).
 
 In 2019, I left an Associate Professor position at a Translation Studies department to do a PhD research on human translation quality estimation.
