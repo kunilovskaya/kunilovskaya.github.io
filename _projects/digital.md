@@ -36,7 +36,7 @@ On the philosophical level, it is important to establish a non-comparative appro
 </ul>
 
 ### Popular-scientific description (in Russian)
-See <a href="assets/pdf/ru_kunilovskaya_pop-sci_cultural-trends_2021.pdf" target="blank">report</a>
+See <a href="../../../assets/pdf/ru_kunilovskaya_pop-sci_cultural-trends_2021.pdf" target="blank">report</a>
 
 
 

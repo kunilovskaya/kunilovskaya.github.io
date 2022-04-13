@@ -12,11 +12,11 @@ profile:
     <p>Wolverhamton, UK</p>
     <p>PhD Researcher</p>
 
+social: true  # includes social icons before news
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
----
 
+---
 I completed my first PhD (Candidate of Science) in Contrastive Linguistics in 2004 (adviser: Olga Brodovich, Saint Petersburg University).
 
 In 2019, I left an Associate Professor position at a Translation Studies department to do a PhD research on human translation quality estimation.
@@ -30,3 +30,4 @@ My research is focused on computational approaches in translationese studies, bu
     <li>languages varieties, register studies, text complexity</li>
     <li>digital humanities</li>
 </ul>
+Download <a href="../../../latex/en_kunilovskaya_academic-CV_Apr12-2022.pdf" target="blank">curriculum vitae</a>

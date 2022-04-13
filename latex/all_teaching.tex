@@ -1,0 +1,71 @@
+%--------------------
+% Packages
+% -------------------
+\documentclass[11pt,a4paper]{article}
+\usepackage[utf8x]{inputenc}
+\usepackage[T1]{fontenc}
+%\usepackage{gentium}
+\usepackage{mathptmx} % Use Times Font
+
+
+\usepackage[pdftex]{graphicx} % Required for including pictures
+\usepackage[swedish]{babel} % Swedish translations
+\usepackage[pdftex,linkcolor=black,pdfborder={0 0 0}]{hyperref} % Format links for pdf
+\usepackage{calc} % To reset the counter in the document after title page
+\usepackage{enumitem} % Includes lists
+
+\frenchspacing % No double spacing between sentences
+\linespread{1.2} % Set linespace
+\usepackage[a4paper, lmargin=0.1666\paperwidth, rmargin=0.1666\paperwidth, tmargin=0.1111\paperheight, bmargin=0.1111\paperheight]{geometry} %margins
+%\usepackage{parskip}
+
+\usepackage[all]{nowidow} % Tries to remove widows
+\usepackage[protrusion=true,expansion=true]{microtype} % Improves typography, load after fontpackage is selected
+
+\usepackage{lipsum} % Used for inserting dummy 'Lorem ipsum' text into the template
+
+\title{Maria Kunilovskaya}
+\author{A list of modules taught at Translation Studies programme (specialist and BA degrees)}
+\date{\today}
+
+%-----------------------
+% Set pdf information and add title, fill in the fields
+%-----------------------
+\hypersetup{ 	
+pdfsubject = {},
+pdftitle = {},
+pdfauthor = {}
+}
+
+%-----------------------
+% Begin document
+%-----------------------
+\begin{document} 
+	
+	\clearpage
+	\maketitle
+	\thispagestyle{empty}
+	
+	\begin{enumerate}
+		\item Linguistic theory
+		\begin{itemize}
+			\item Corpus Linguistics (2015-2018)
+			\item Translation Studies (2003-2018)
+			\item Linguistic Text/Discourse Analysis (2010-2018)
+			\item Theoretical Grammar of English (2009-2012)
+			\item English Lexicology (2005-2010)
+		\end{itemize}
+		\item Practical modules
+		\begin{itemize}
+			\item Translation Practice (English-Russian, advanced level, 2011-2018)
+			\item Computer-Assisted Translation and translation technology (2011-2018)
+			\item Source Text Comprehension and Analysis (2009-2018)
+			\item Corpus Skills for Translators (2014-2018)
+			\item Practical Grammar (Upper-Intermediate level, 2010-1011)
+			\item Consecutive Interpreting (English-Russian, all levels, 2003-2014)
+			\item Basic Speaking Practice (1997-2003)
+			\item Listening and Comprehension (2000-2003)
+		\end{itemize}
+	\end{enumerate}
+	
+\end{document}

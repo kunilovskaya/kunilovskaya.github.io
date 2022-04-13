@@ -1,0 +1,101 @@
+% this is source code for one of the sessions in Digital Skills for Research Workshop (EMTTI, University of Wolverhampton)
+% March 2022, Maria Kunilovskaya (mkunilovskaya@gmail.com)
+
+\documentclass[a4paper,11pt]{article}
+
+\usepackage[utf8]{inputenc}
+
+\usepackage[colorlinks=true, linkcolor=blue, urlcolor=cyan, filecolor=magenta,citecolor=violet]{hyperref} 
+
+\usepackage{geometry}
+\geometry{
+	a4paper,
+	total={170mm,257mm},
+	left=20mm,
+	top=15mm,
+}
+\setlength\parindent{0pt} % set all indents to 0
+\usepackage{tcolorbox} 
+\usepackage{multicol}
+
+\usepackage{listings}
+\lstset{basicstyle=\ttfamily\footnotesize}
+
+\makeatletter
+\renewcommand*{\verbatim@font}{\ttfamily\footnotesize}
+\makeatother
+
+%%% Tables
+\usepackage{tabularx,booktabs}
+\usepackage{multirow}
+
+%%% Bibliography (makes changes to cite command and at the end of the doc)
+%====================
+% Switch to biblatex
+% intext: \autocite{}, \textcite{knuth1984}, \autocite[\ppno~347--348]{RobertAdams1991}
+% references list: \printbibliography[title=Cited]
+%====================
+\usepackage[style=authoryear,backend=biber]{biblatex}
+\addbibresource{7\_NLP-tasks-complexity.bib}
+
+%========================
+% Use bibtex with natbib
+% intext: \citep{}, \citet{}
+% references list (at the end of doc): \bibliography{7_NLP-tasks-complexity.bib}
+%========================
+%\usepackage[round,sort,comma]{natbib}
+
+%\usepackage{notoccite} % uncomment to print all items from .bib
+
+\title{Maria Kunilovskaya}
+\author{Curriculum Vitae}
+\date{\today}
+
+\begin{document}
+	
+\clearpage
+\maketitle
+\thispagestyle{empty}
+
+
+\begin{tcolorbox}[colback=red!5!white, colframe=red!75!black]
+	\centering
+	{\Large{Create a CV when you have time. Maybe use a template}}
+\end{tcolorbox}
+\bigskip
+In most cases, the bibliography is taken care of by the template. \\
+
+\begin{itemize}
+	\item Referencing (citation) styles are defined by guides (manuals) published by scholarly associations or by publishing companies (e.g. American Psychological Association, University of Chicago or The Institute of Electrical and Electronics Engineers (IEEE))
+\end{itemize}
+
+\href{https://www.citethemrightonline.com/Basics}{\underline{The basics of referencing}}
+
+
+\begin{multicols}{2}
+	\begin{itemize}
+		\item order of first/last name for $2^d$ author,
+		\item brackets for year,
+		\item the punctuation to separate blocks of info,
+		\item use of quotes and italics,
+	\end{itemize}
+\end{multicols}
+
+       
+
+\begin{description}
+	\item[APA:]	(Shareef et al., 2010), (Elgafy \verb|&| Lafdi, 2010), (Jones, 1998, p. 63)
+	
+	Shareef, M., Ojo, A., \verb|&| Janowski, T. (2010). Exploring digital divide in the Maldives. In J. Berleur, M. D. Hercheui, \verb|&| L. M. Hilty (Eds.), \textit{What kind of information society? Governance, virtuality, surveillance, sustainability, resilience} (pp. 51–63). Springer. https://doi.org/10.1007/978-3-642-15479-9\_5
+	
+	\item[\href{https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-2.html}{Chicago author-year}, \href{https://www.overleaf.com/2121398454pztnvnjshsgk}{Overleaf}:]
+	(Singh and Best 1998, 243).
+	
+	Singh, Kamal, and Gary Best. 2004. ``Film Induced Tourism: Motivations of Visitors to the Hobbiton Movie Set as Featured in `The Lord of the Rings'.'' In \textit{Proceedings of the 1st International Tourism and Media Conference}, Melbourne, 2004, 98-111. Melbourne: Tourism Research Unit, Monash University.
+	
+	
+\end{description}
+
+
+
+\end{document}

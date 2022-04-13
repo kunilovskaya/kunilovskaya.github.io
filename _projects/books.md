@@ -4,8 +4,6 @@ permalink: /projects/books/
 title: books
 description: a register of what made impression on me
 img: assets/img/reading_geometry.jpeg
-
-years: [2022, 2021, 2020, 2019]
 nav: true
 importance: 2
 category: fun
@@ -35,12 +33,12 @@ category: fun
 * Anatoliy Rybakov. Children of the Arbat (trilogy). 1987
 * Yuri Trifonov. House on the embankment. 1975
 
-
 ### 2019
 * Stephen Fry. Mythos: The myths of the Ancient Greek heroes retold. 2017
 * Stephen Fry. Heroes: The myths of the Ancient Greek heroes retold. 2018
 * Isaak Babel. Red Cavalry. 1923—1925
 * Margaret Atwood. Alias Grace. 2001
+* Mike Savage. Social Class in Great Britain. 2015
 
 
 <div class="row justify-content-sm-center">

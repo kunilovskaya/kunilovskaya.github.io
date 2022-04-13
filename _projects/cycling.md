@@ -1,7 +1,7 @@
 ---
 layout: page
 title: cycling
-description: roads, routes and going places
+description: roads, routes and going places 
 img: assets/img/road.jpg
 importance: 2
 category: fun
