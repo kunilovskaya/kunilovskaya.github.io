@@ -54,11 +54,13 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # -----------------------------------------------------------------------------
 
 github_username: kunilovskaya # your GitHub user name
+linkedin_username: maria-kunilovskaya-27959175 # your LinkedIn user name
+scholar_userid: kM1BnZYAAAAJ&hl=en # your Google Scholar ID
+orcid_id: 0000-0002-1473-4684 # your ORCID ID
+dblp_url: https://dblp.org/pid/150/3653.html # your DBLP profile url
+semantic_scholar_url: https://www.semanticscholar.org/author/3138117
+strava_userid: 25080753
 twitter_username: # your Twitter handle
-linkedin_username: linkedin.com/in/maria-kunilovskaya-27959175 # your LinkedIn user name
-scholar_userid: https://scholar.google.com/citations?user=kM1BnZYAAAAJ&hl=en # your Google Scholar ID
-orcid_id: http://orcid.org/0000-0002-1473-4684 # your ORCID ID
-semantic_scholar: https://www.semanticscholar.org/author/3138117
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
@@ -67,7 +69,6 @@ blogger_url: # your blogger URL
 work_url: # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
-dblp_url: https://dblp.org/pid/150/3653.html # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
 
 contact_note: #>
