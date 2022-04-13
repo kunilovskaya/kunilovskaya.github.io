@@ -1,5 +1,6 @@
 ---
 layout: about
+description: a contrastive linguist turned computational
 title: about
 permalink: /
 subtitle: linguistics, contrastive and computational
