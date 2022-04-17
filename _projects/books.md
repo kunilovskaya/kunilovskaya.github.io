@@ -13,8 +13,8 @@ category: fun
 
 ### Current
 * Steven Pinker. Enlightenment Now. 2019
-* Walter Scott. Ivanhoe. 1819
-* Alexej Ivanov. The Gold of the revolt. 2007
+* Walter Scott. Ivanhoe. 1819 (inspired by a trip to Edinburgh)
+* Alexej Ivanov. The Gold of the revolt /Золото бунта/. 2007
 
 ### 2022
 * Ernest Hemingway. For whom the bell tolls. 1940
@@ -27,11 +27,14 @@ category: fun
 * Михаил Зыгарь. The Empire Must Die: Russia’s Revolutionary Collapse, 1900-1917. 2017
 * Эдвард Радзинский. Наполеон. 2021
 * Артуро Перес-Реверте. Тень орла. 2004
+* Алексей Иванов. Тени тевтонов. 2021 (inspired by a trip to Kaliningrad)
+* Алексей Иванов. Географ глобус пропил. 2016
 
 ### 2020
 * Ernest Hemingway. The old man and the sea. 1951
 * Anatoliy Rybakov. Children of the Arbat (trilogy). 1987
 * Yuri Trifonov. House on the embankment. 1975
+* Neil Gaiman. Norse Mythology. 2017
 
 ### 2019
 * Stephen Fry. Mythos: The myths of the Ancient Greek heroes retold. 2017
