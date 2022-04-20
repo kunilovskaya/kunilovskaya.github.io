@@ -7,22 +7,21 @@ nav: true
 ---
 
 ### latest participation in conferences 
-#### talks
+##### -- talks
 * 16 Dec 2021: Analysis of Images, Social Networks and Texts [AIST](https://aistconf.org/)
 * 11 Nov 2021: [LaTeCH-CLfL](https://sighum.wordpress.com/events/latech-clfl-2021/) at ENMLP
 * 2 Sept 2021: [RANLP](https://ranlp.org/ranlp2021/start.php)
 
-#### as audience
+##### -- as audience
 * (forthcoming) ACL [2022](https://www.2022.aclweb.org/)
 
-#### shared tasks
+##### -- shared tasks
 * 3d place in the *Taxonomy Enrichment for the Russian Language* shared task 
 organised by [Dialogue Evaluation 2020](https://competitions.codalab.org/competitions/22168#results )
 * participation in *WMT 2020 Quality Estimation* shared task;
 see results for *mak* under [Russian-English](https://www.statmt.org/wmt20/quality-estimation-task_results.html)
----
 
-### organising conferences
+#### -- organising conferences
 * EUROPHRAS 2019, [2022](http://lexytrad.es/europhras2022/)
 * TRITON [2021](http://triton-conference.org/home/)
 * RANLP [2021](https://ranlp.org/ranlp2021/contacts.php), inc. editing [Proceedings](https://ranlp.org/ranlp2021/proceedings.php)
