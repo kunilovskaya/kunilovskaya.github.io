@@ -10,7 +10,7 @@ profile:
   image: bham_vert.jpg
   address: >
     <p><a href="http://rgcl.wlv.ac.uk/" target="_blank">RGCL</a></p>
-    <p>Wolverhamton, UK</p>
+    <p>Wolverhampton, UK</p>
     <p>PhD Researcher</p>
 
 social: true  # includes social icons before news
