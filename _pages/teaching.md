@@ -14,7 +14,7 @@ nav: true
 * Data annotation for research in translation (University of Wolverhampton, EMTTI, 3-hour workshop, 2021) 
 * Linguistic resources in practical translation (University of Wolverhampton, EMTTI, 3-hour workshop, 2020-2022)
 
-See the <a href="../../../latex/all_teaching.pdf" target="blank">full list of all modules</a> that I have developed and taught throughout my entire career
+See the <a href="../../../latex/all_teaching.pdf" target="blank">a list of modules</a> that I have developed and taught throughout my career
 
 ---
 
