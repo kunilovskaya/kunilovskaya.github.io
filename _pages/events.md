@@ -13,7 +13,7 @@ nav: true
 * 2 Sept 2021: [RANLP](https://ranlp.org/ranlp2021/start.php)
 
 ##### -- as audience
-* (forthcoming) ACL [2022](https://www.2022.aclweb.org/)
+* ACL [2022](https://www.2022.aclweb.org/)
 
 ##### -- shared tasks
 * 3d place in the *Taxonomy Enrichment for the Russian Language* shared task 
