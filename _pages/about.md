@@ -26,10 +26,10 @@ My research is focused on computational approaches in translationese studies, bu
 
 **Keywords:**
 <ul>
-    <li>translation quality estimation, learner translations, error annotation;</li>
-    <li>machine learning, distributional semantics</li>
+    <li>Python, machine learning, DL, distributional semantics</li>
+    <li>computational humanities, data collection and analysis</li>
+    <li>translation quality estimation, data annotation</li>
     <li>languages varieties, register studies, text complexity</li>
-    <li>digital humanities</li>
 </ul>
 Download <a href="../../../latex/en_kunilovskaya_academic-CV_June10-2022.pdf" target="blank">curriculum vitae</a>
 <!--- ; <a href="../../../latex/kunilovskaya_europass_13Apr2022.pdf" target="blank">Europass</a> --->
