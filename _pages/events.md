@@ -29,8 +29,9 @@ see results for *mak* under [Russian-English](https://www.statmt.org/wmt20/quali
 
 ---
 
-###  programme committee member
-* NAACL Student Workshop
+###  programme committee member (reviewing duties)
+* COLING 2022
+* NAACL 2022 Student Workshop
 * LREC 2022
 * NETTT 2022
 * TRITON 2021
