@@ -6,8 +6,9 @@ description: organising committees, reviewing and participation
 nav: true
 ---
 
-### latest participation in conferences 
+### latest participation in conferences
 ##### -- talks
+* 05 May 2023: [LaTeCH-CLfL](https://sighum.wordpress.com/events/latech-clfl-2023/) at EACL
 * 16 Dec 2021: Analysis of Images, Social Networks and Texts [AIST](https://aistconf.org/)
 * 11 Nov 2021: [LaTeCH-CLfL](https://sighum.wordpress.com/events/latech-clfl-2021/) at ENMLP
 * 2 Sept 2021: [RANLP](https://ranlp.org/ranlp2021/start.php)
@@ -24,12 +25,15 @@ see results for *mak* under [Russian-English](https://www.statmt.org/wmt20/quali
 ##### -- organising conferences
 * EUROPHRAS 2019, [2022](http://lexytrad.es/europhras2022/)
 * TRITON [2021](http://triton-conference.org/home/)
-* RANLP [2021](https://ranlp.org/ranlp2021/contacts.php), inc. editing [Proceedings](https://ranlp.org/ranlp2021/proceedings.php)
+* RANLP [2021](https://ranlp.org/ranlp2021/contacts.php), 2023, inc. editing [Proceedings](https://ranlp.org/ranlp2021/proceedings.php)
 * NETTT [2022](https://nettt-conference.com/)
 
 ---
 
 ###  programme committee member (reviewing duties)
+* ACL-SRW 2023
+* EAMT 2023
+* HiT-IT 2023
 * COLING 2022
 * NAACL 2022 Student Workshop
 * LREC 2022
@@ -50,7 +54,9 @@ see results for *mak* under [Russian-English](https://www.statmt.org/wmt20/quali
 
 ### schools and research visits
 
-1. Nordic winter school in NLP (February 2020, Oslo, Norway)
+1. Understanding and Modelling Linguistic Variability Summer school, University of Potsdam (Aug 2023)
+2. Information Theory course, Saarland University, Dept of Language Science & Technology (Feb 2023)
+2. Nordic winter school in NLP (February 2020, Oslo, Norway)
 2. Invited talk at a research seminar, *Centre for Translation Studies*, University of Leeds (January 2020)
 <!-- invited and attended by Jeremy Munday -->
 3. Summer School on Deep Learning in NLP, as part of the 12th RANLP conference (RANLP 2019)

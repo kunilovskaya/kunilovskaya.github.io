@@ -113,7 +113,9 @@ collections:
     output: true
     permalink: /projects/:path/
 
-news_limit: 10
+# I cannot get it to work: May 2023
+news_scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+news_limit: 3  # leave blank to include all the news in the `_news` folder
 
 # -----------------------------------------------------------------------------
 # Jekyll settings

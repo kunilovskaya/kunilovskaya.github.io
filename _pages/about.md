@@ -15,7 +15,7 @@ profile:
 
 social: true  # includes social icons before news
 news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}
 ---
 I am currently a postdoc with University of Saaland (Germany) working on modelling mediated language to explore the memory-surprisal trade-off hypothesis from information theory. 
 My PhD (completed March 2023, supervisor: Prof. Mitkov, <a href="http://rgcl.wlv.ac.uk/" target="_blank">RGCL</a>, UK) was on human translation quality estimation.
