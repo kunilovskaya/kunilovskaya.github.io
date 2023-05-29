@@ -9,7 +9,7 @@ profile:
   align: center
   image: bham_vert.jpg
   address: >
-    <p><a href="http://rgcl.wlv.ac.uk/" target="_blank">UdS SFB B7</a></p>
+    <p><a href="https://sfb1102.uni-saarland.de/projects/modelling-human-translation-with-a-noisy-channel/" target="_blank">UdS SFB B7</a></p>
     <p>Saarbrücken, Germany</p>
     <p>Postdoc Researcher</p>
 
@@ -18,7 +18,7 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 ---
 I am currently a postdoc with University of Saaland (Germany) working on modelling mediated language to explore the memory-surprisal trade-off hypothesis from information theory. 
-My PhD (completed March 2023, supervisor: Prof. Mitkov, RGCL, UK) was on human translation quality estimation.
+My PhD (completed March 2023, supervisor: Prof. Mitkov, <a href="http://rgcl.wlv.ac.uk/" target="_blank">RGCL</a>, UK) was on human translation quality estimation.
 
 Before that I held an Associate Professor position at a Translation Studies department, lecturing in Translation Studies, Theoretical Linguistics and Corpus Linguistics.
 I have a PhD (Candidate of Science) in Contrastive Linguistics (completed 2004, adviser: Prof. Brodovich, Saint Petersburg University).
