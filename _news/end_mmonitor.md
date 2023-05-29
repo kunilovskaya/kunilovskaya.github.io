@@ -1,9 +1,8 @@
 ---
 layout: post
-date: 2022-07-01
+date: 2023-05-05
 inline: true
 ---
 
--- started collecting data for a computational sociology/politology project that aims to compare publications in Russian mass media 
-and social networks to capture the interplay between propaganda and vox populi
+-- released WarMM-2023 and presented the results of Russian media-at-wartime monitoring project at EACL workshop
 
