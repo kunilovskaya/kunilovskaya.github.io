@@ -31,7 +31,7 @@ In the past few years, I was involved in computational humanities projects.
 
 **Keywords:**
 <ul>
-    <li>languages modelling, information theory</li>
+    <li>language modelling, information theory</li>
     <li>Python, machine learning, DL, distributional semantics</li>
     <li>computational humanities, data collection and analysis</li>
     <li>translation quality estimation, data annotation</li>
