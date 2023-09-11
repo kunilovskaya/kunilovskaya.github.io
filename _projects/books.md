@@ -11,13 +11,16 @@ category: fun
 
 ## Selected Items
 
-### Current
+# Current
+* Александр Баунов. Конец режима: Как закончились три европейские диктатуры. 2023
+
+### 2023
 * Steven Pinker. Enlightenment Now. 2019
-* Walter Scott. Ivanhoe. 1819 (inspired by a trip to Edinburgh)
-* Alexej Ivanov. The Gold of the revolt /Золото бунта/. 2007
 
 ### 2022
 * Ernest Hemingway. For whom the bell tolls. 1940
+* Walter Scott. Ivanhoe. 1819 (inspired by a trip to Edinburgh)
+* Alexej Ivanov. The Gold of the revolt /Золото бунта/. 2007
 
 ### 2021
 * Tim Marshall. Prisoners of Geographyю 2019

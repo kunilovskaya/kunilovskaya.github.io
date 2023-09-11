@@ -27,7 +27,7 @@ A lot of my efforts were invested in building <a href="https://www.rus-ltc.org/s
 I have extensive experience in setting up manual annotation experiments.
 
 My research interests have shifted from corpus- and feature-based approaches to ML, modelling and representation learning.
-In the past few years, I was involved in computational humanities projects.
+In the past few years, I was involved in several computational humanities projects.
 
 **Keywords:**
 <ul>
@@ -37,5 +37,5 @@ In the past few years, I was involved in computational humanities projects.
     <li>translation quality estimation, data annotation</li>
     <li>languages varieties, register studies, text complexity</li>
 </ul>
-Download <a href="../../../latex/en_kunilovskaya_CV_May29-2023.pdf" target="blank">curriculum vitae</a>
+Download <a href="../../../latex/en_kunilovskaya_CV_Sept11-2023.pdf" target="blank">curriculum vitae</a>
 <!--- ; <a href="../../../latex/kunilovskaya_europass_13Apr2022.pdf" target="blank">Europass</a> --->

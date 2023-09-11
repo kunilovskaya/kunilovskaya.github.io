@@ -8,6 +8,8 @@ nav: true
 
 ### latest participation in conferences
 ##### -- talks
+* 07 Sep 2023 [TSAR](https://tsar-workshop.github.io/program/) at RANLP
+* 03 Sep 2023 [RANLP](http://ranlp.org/ranlp2023/index.php/ps04/)
 * 05 May 2023: [LaTeCH-CLfL](https://sighum.wordpress.com/events/latech-clfl-2023/) at EACL
 * 16 Dec 2021: Analysis of Images, Social Networks and Texts [AIST](https://aistconf.org/)
 * 11 Nov 2021: [LaTeCH-CLfL](https://sighum.wordpress.com/events/latech-clfl-2021/) at ENMLP
@@ -23,14 +25,15 @@ organised by [Dialogue Evaluation 2020](https://competitions.codalab.org/competi
 see results for *mak* under [Russian-English](https://www.statmt.org/wmt20/quality-estimation-task_results.html)
 
 ##### -- organising conferences
+* RANLP [2021, 2023](https://ranlp.org/), inc. editing [Proceedings](https://acl-bg.org/proceedings/2023/RANLP%202023/RANLP2023-draft-proceedings.pdf)
 * EUROPHRAS 2019, [2022](http://lexytrad.es/europhras2022/)
 * TRITON [2021](http://triton-conference.org/home/)
-* RANLP [2021](https://ranlp.org/ranlp2021/contacts.php), 2023, inc. editing [Proceedings](https://ranlp.org/ranlp2021/proceedings.php)
 * NETTT [2022](https://nettt-conference.com/)
 
 ---
 
 ###  programme committee member (reviewing duties)
+* EMNLP 2023
 * ACL-SRW 2023
 * EAMT 2023
 * HiT-IT 2023
@@ -39,21 +42,22 @@ see results for *mak* under [Russian-English](https://www.statmt.org/wmt20/quali
 * LREC 2022
 * NETTT 2022
 * TRITON 2021
-* RANLP 2019, 2021
-* AIST 2021
+* RANLP 2019, 2021, 2023
+* AIST 2021, 2023
 * EUROPHRAS 2019, 2022
 
 ### other reviewing
-* Journal of Natural Language Engineering
+* Cognitive Linguistics (de Gruyter)
+* Journal of Natural Language Engineering (Cambridge University Press)
 * International Journal of Learner Corpus research
 * Russian Language Journal
 * Recent Advances in MWU in Machine Translation and Translation technology
-* EMTTI master theses
+* EMTTI/HSE master theses
 
 ---
 
 ### schools and research visits
-
+0. Summer School on Deep Learning in NLP (at RANLP in Varna, 30 August - 1 September 2023)
 1. Understanding and Modelling Linguistic Variability Summer school, University of Potsdam (Aug 2023)
 2. Information Theory course, Saarland University, Dept of Language Science & Technology (Feb 2023)
 2. Nordic winter school in NLP (February 2020, Oslo, Norway)

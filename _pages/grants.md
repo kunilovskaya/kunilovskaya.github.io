@@ -7,7 +7,7 @@ nav: true
 ---
 
 <dl>  
-  <dt>2021-2023 Cultural Analytics</dt>
+  <dt>2020-2022 Cultural Analytics</dt>
   <dd>A data scientist role in a cross-functional team working on a Digital Humanities project supported by a Russian Foundation for Basic Research grant (Project No. 20-411-720010; title: *Cultural Trends in the Tyumen Region in the National and Global Contexts*)</dd>
   <dt>2017-2019 Translation studies</dt>
   <dd>A Principal Investigator in a project *Linguistic properties of translations: descriptive norms and translation quality estimation (based on English-to-Russian mass-media texts)* supported by the Russian Foundation for Basic Research (Project No. 17-06-00107)</dd>
