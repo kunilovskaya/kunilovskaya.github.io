@@ -2,20 +2,22 @@
 layout: page
 permalink: /projects/books/
 title: books
-description: a register of what made impression on me
+description: a register of what made an impression on me
 img: assets/img/reading_geometry.jpeg
 nav: true
 importance: 2
 category: fun
 ---
 
-## Selected Items
 
-# Current
-* Александр Баунов. Конец режима: Как закончились три европейские диктатуры. 2023
+## Current
+
 
 ### 2023
+* Александр Баунов. Конец режима: Как закончились три европейские диктатуры. 2023
+* Ernest Hemingway. Fiesta: The Sun Also Rises. 1926 (Do I want to try and live a few years in Spain?)
 * Steven Pinker. Enlightenment Now. 2019
+* Дмитрий Быков. Лекции по русской литературе 20-го века (еще раз)
 
 ### 2022
 * Ernest Hemingway. For whom the bell tolls. 1940
@@ -23,7 +25,7 @@ category: fun
 * Alexej Ivanov. The Gold of the revolt /Золото бунта/. 2007
 
 ### 2021
-* Tim Marshall. Prisoners of Geographyю 2019
+* Tim Marshall. Prisoners of Geography. 2019
 * Ernest Hemingway. A Moveable Feast. 1964
 * Борис Акунин. После тяжелой продолжительной болезни. Время Николая II. 2021
 * Михаил Зыгарь. Вся кремлёвская рать: Краткая история современной России. 2015

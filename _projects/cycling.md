@@ -7,6 +7,29 @@ importance: 2
 category: fun
 ---
 <div class="caption">
+West Germany has far better cycling routes. I struggle each morning uphill to the Uni, waiting till it gets less painful. 
+It should after a few months, right? I have seen some progress after the first four weeks on my new Bergsteiger bike.
+I had quite a cycling adventure in Paris in summer 2023. 
+</div>
+
+<div class="container">
+
+	<div class="row">
+			<div class="col">
+			{% include figure.html path="assets/img/bergsteiger.jpg" title="why do I often have a feeling that it is all a movie production set?" class="img-fluid rounded"%}
+			</div>
+			<div class="col">
+			{% include figure.html path="assets/img/to_uni_record_Sept16-2023.jpg" title="pink glasses is a statement" class="img-fluid rounded z-depth-1" %}
+			</div>
+			<div class="col">
+			{% include figure.html path="assets/img/paris_velib.jpg" title="Picasso's aspect" class="img-fluid rounded z-depth-1" %}
+			</div>
+	</div>
+
+</div>
+
+
+<div class="caption">
 During quiet weekends, London cycling routes are quite enjoyable; on weekdays they are exciting :-)
 </div>
 

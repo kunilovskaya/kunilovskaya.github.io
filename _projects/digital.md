@@ -4,16 +4,16 @@ title: culturomics
 permalink: /projects/digital/
 description: a project supported by Russian Foundation for Basic Research
 img: assets/img/research.jpeg
-importance: 1
+importance: 2
 category: work
 ---
 
-<h4 class="title">Cultural Trends in Tyumen Region: National and Global Contexts</h4>
+<h4 class="title">Cultural Trends in Tyumen Region: National and Global Contexts (2020-2022)</h4>
 
 
 <h5 class="title">Abstract</h5>
 
-This project aims to develop a new empirical approach to explore cultural life in a given region. It is built around a 5-mln-strong database of records about cultural events. 
+This project aims to develop a new empirical approach to explore the cultural life in a given region. It is built around a 5-mln-strong database of records about cultural events. 
 The records were acquired from specialised websites that aggregated announcements, such as open government archives, commercial databases and social networks. 
 
 <a href="../../../assets/pdf/abstract_elsewhere.pdf" target="blank">Read more</a>

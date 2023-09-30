@@ -1,7 +1,7 @@
 ---
 layout: page
 title: JNLE 
-description: editorial assistant
+description: EB member + editorial office
 img: assets/img/nle_cover.jpg
 importance: 2
 category: work
