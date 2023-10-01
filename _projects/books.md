@@ -11,7 +11,8 @@ category: fun
 
 
 ## Current
-
+* Набоков. Дар. 1938.
+* Walter Scott. Rob Roy. 1817
 
 ### 2023
 * Александр Баунов. Конец режима: Как закончились три европейские диктатуры. 2023
@@ -22,6 +23,7 @@ category: fun
 ### 2022
 * Ernest Hemingway. For whom the bell tolls. 1940
 * Walter Scott. Ivanhoe. 1819 (inspired by a trip to Edinburgh)
+* Дина Рубина. Русская канарейка. Трилогия. 2014
 * Alexej Ivanov. The Gold of the revolt /Золото бунта/. 2007
 
 ### 2021
