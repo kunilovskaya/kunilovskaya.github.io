@@ -17,6 +17,7 @@ category: fun
 ### 2023
 * Александр Баунов. Конец режима: Как закончились три европейские диктатуры. 2023
 * Ernest Hemingway. Fiesta: The Sun Also Rises. 1926 (Do I want to try and live a few years in Spain?)
+* Harper Lee. To Kill a Mockingbird. 1960
 * Steven Pinker. Enlightenment Now. 2019
 * Дмитрий Быков. Лекции по русской литературе 20-го века (еще раз)
 
