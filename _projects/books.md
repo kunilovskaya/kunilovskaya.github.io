@@ -11,10 +11,11 @@ category: fun
 
 
 ## Current
-* Набоков. Дар. 1938.
-* Walter Scott. Rob Roy. 1817
+* 
 
 ### 2023
+* Маркес. Сто лет одиночества. 1967. перю Валерий Столбов, Нина Бутырина.
+* Набоков. Дар. 1938.
 * Александр Баунов. Конец режима: Как закончились три европейские диктатуры. 2023
 * Ernest Hemingway. Fiesta: The Sun Also Rises. 1926 (Do I want to try and live a few years in Spain?)
 * Harper Lee. To Kill a Mockingbird. 1960
