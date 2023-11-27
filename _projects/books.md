@@ -14,7 +14,7 @@ category: fun
 * 
 
 ### 2023
-* Маркес. Сто лет одиночества. 1967. перю Валерий Столбов, Нина Бутырина.
+* Маркес. Сто лет одиночества. 1967. пер. Валерий Столбов, Нина Бутырина. (again and again)
 * Набоков. Дар. 1938.
 * Александр Баунов. Конец режима: Как закончились три европейские диктатуры. 2023
 * Ernest Hemingway. Fiesta: The Sun Also Rises. 1926 (Do I want to try and live a few years in Spain?)
@@ -23,6 +23,7 @@ category: fun
 * Дмитрий Быков. Лекции по русской литературе 20-го века (еще раз)
 
 ### 2022
+* Isaak Asimov. The Gods Themselves. 1972
 * Ernest Hemingway. For whom the bell tolls. 1940
 * Walter Scott. Ivanhoe. 1819 (inspired by a trip to Edinburgh)
 * Дина Рубина. Русская канарейка. Трилогия. 2014
