@@ -11,7 +11,8 @@ category: fun
 
 
 ## Current
-* 
+* Владимир Пропп. 1928. Морфология волшебной сказки
+* Helmut Walser Smith. 2020. Germany: A Nation in Its Time: Before, During, and After Nationalism
 
 ### 2023
 * Маркес. Сто лет одиночества. 1967. пер. Валерий Столбов, Нина Бутырина. (again and again)

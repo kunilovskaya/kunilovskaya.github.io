@@ -28,25 +28,28 @@ see results for *mak* under [Russian-English](https://www.statmt.org/wmt20/quali
 * RANLP [2021, 2023](https://ranlp.org/), inc. editing [Proceedings](https://acl-bg.org/proceedings/2023/RANLP%202023/RANLP2023-draft-proceedings.pdf)
 * EUROPHRAS 2019, [2022](http://lexytrad.es/europhras2022/)
 * TRITON [2021](http://triton-conference.org/home/)
-* NETTT [2022](https://nettt-conference.com/)
+* NETTT [2022, 2024](https://nettt-conference.com/)
 
 ---
 
 ###  programme committee member (reviewing duties)
+* LaTeCH-CLfL workshop 2024
 * EMNLP 2023
 * ACL-SRW 2023
-* EAMT 2023
+* EAMT 2023, 2024
 * HiT-IT 2023
 * COLING 2022
+* LREC 2022, LREC-COLING 2024
 * NAACL 2022 Student Workshop
-* LREC 2022
-* NETTT 2022
+* NETTT 2022, 2024
 * TRITON 2021
 * RANLP 2019, 2021, 2023
 * AIST 2021, 2023
 * EUROPHRAS 2019, 2022
+* Translation in Transition (TT2024)
 
 ### other reviewing
+* JoSTrans, the Journal of specialised translation
 * Cognitive Linguistics (de Gruyter)
 * Journal of Natural Language Engineering (Cambridge University Press)
 * International Journal of Learner Corpus research
