@@ -18,5 +18,5 @@ group :jekyll_plugins do
     gem 'htmlcompressor'
     gem 'htmlbeautifier'
 #     gem 'net-http', '0.3.2' # Explicitly added to suppress warnings
-    gem 'uri', '0.10.0'
+    gem 'uri', '0.10.1'
 end
