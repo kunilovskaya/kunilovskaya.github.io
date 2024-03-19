@@ -7,6 +7,8 @@ nav: true
 ---
 
 <dl>  
+  <dt>2022 Simplification effects in human translation and interpreting</dt>
+  <dd>CHIST-ERA programme under the national grant agreement: FWF-I 3441 (FWF Austrian Science Fund, Austria)</dd>
   <dt>2020-2022 Cultural Analytics</dt>
   <dd>A data scientist role in a cross-functional team working on a Digital Humanities project supported by a Russian Foundation for Basic Research grant (Project No. 20-411-720010; title: *Cultural Trends in the Tyumen Region in the National and Global Contexts*)</dd>
   <dt>2017-2019 Translation studies</dt>
