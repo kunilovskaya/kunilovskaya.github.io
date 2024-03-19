@@ -2,7 +2,7 @@
 layout: page
 permalink: /grants/
 title: grants
-description: This is a list of grants I have won and have been involved with (including current)
+description: This is a list of grants I have won or have been involved with
 nav: true
 ---
 
