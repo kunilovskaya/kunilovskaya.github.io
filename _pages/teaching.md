@@ -8,6 +8,8 @@ nav: true
 
 ### taught modules and sessions
 
+* May 2024: a lecture on Empirical Translation Studies + lab on parallel corpora building and annotation for Language Science and Technology master students (as part of a Hauptseminar "Empirical Linguistics and Translatology")
+* April 2024: an invited talk at the Information Theory school on Applications of infomation theory indices in translation studies
 * March-May 2022: <a href="https://github.com/kunilovskaya/dskills_workshop" target="_blank">Digital Skills for Research</a> for the <a href="https://em-tti.eu/" target="blank">EMTTI</a> and Computational linguistics Master students.
 * Empirical Translation Studies (University of Wolverhampton, EMTTI, 3-hour session, annual since 2019); see <a href="../../../assets/pdf/kunilovskaya_htqe_4Apr2022.pdf" target="blank">slides</a>
 * Workshop on building and exploiting parallel corpora (University of Wolverhampton, EMTTI, 3-hour session, 2020); see <a href="https://github.com/kunilovskaya/parcorp" target="_blank">materials</a>
