@@ -25,6 +25,7 @@ organised by [Dialogue Evaluation 2020](https://competitions.codalab.org/competi
 see results for *mak* under [Russian-English](https://www.statmt.org/wmt20/quality-estimation-task_results.html)
 
 ##### -- organising conferences
+* Multilingual Modelling Workshop (MM-WS, 7 June 2024). <a href="assets/pdf/anzeige_A3.pdf" target="blank">Programme</a>, <a href="assets/pdf/MM-WS_summary.pdf" target="blank">summary</a>.
 * RANLP [2021, 2023](https://ranlp.org/), inc. editing [Proceedings](https://acl-bg.org/proceedings/2023/RANLP%202023/RANLP2023-draft-proceedings.pdf)
 * EUROPHRAS 2019, [2022](http://lexytrad.es/europhras2022/)
 * TRITON [2021](http://triton-conference.org/home/)
@@ -38,7 +39,7 @@ see results for *mak* under [Russian-English](https://www.statmt.org/wmt20/quali
 * ACL-SRW 2023
 * EAMT 2023, 2024
 * HiT-IT 2023
-* COLING 2022
+* COLING 2022, 2025
 * LREC 2022, LREC-COLING 2024
 * NAACL 2022 Student Workshop
 * NETTT 2022, 2024
@@ -47,6 +48,7 @@ see results for *mak* under [Russian-English](https://www.statmt.org/wmt20/quali
 * AIST 2021, 2023
 * EUROPHRAS 2019, 2022
 * Translation in Transition (TT2024)
+* RAILs
 
 ### other reviewing
 * JoSTrans, the Journal of specialised translation
