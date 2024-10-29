@@ -25,7 +25,7 @@ organised by [Dialogue Evaluation 2020](https://competitions.codalab.org/competi
 see results for *mak* under [Russian-English](https://www.statmt.org/wmt20/quality-estimation-task_results.html)
 
 ##### -- organising conferences
-* Multilingual Modelling Workshop (MM-WS, 7 June 2024). <a href="assets/pdf/anzeige_A3.pdf" target="blank">Programme</a>, <a href="assets/pdf/MM-WS_summary.pdf" target="blank">summary</a>.
+* Multilingual Modelling Workshop (MM-WS, 7 June 2024). [Programme](https://kunilovskaya.github.io/assets/pdf/anzeige_A3.pdf), [summary](https://kunilovskaya.github.io/assets/pdf/MM-WS_summary.pdf).
 * RANLP [2021, 2023](https://ranlp.org/), inc. editing [Proceedings](https://acl-bg.org/proceedings/2023/RANLP%202023/RANLP2023-draft-proceedings.pdf)
 * EUROPHRAS 2019, [2022](http://lexytrad.es/europhras2022/)
 * TRITON [2021](http://triton-conference.org/home/)
