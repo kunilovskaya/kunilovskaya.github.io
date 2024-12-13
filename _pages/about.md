@@ -9,7 +9,8 @@ profile:
   align: center
   image: bham_vert.jpg
   address: >
-    <p><a href="https://sfb1102.uni-saarland.de/projects/modelling-human-translation-with-a-noisy-channel/" target="_blank">UdS SFB B7</a></p>
+    <p>University of Saarland</p>
+    <p><a href="https://sfb1102.uni-saarland.de/projects/modelling-human-translation-with-a-noisy-channel/" target="_blank">SFB B7 project</a></p>
     <p>Saarbrücken, Germany</p>
     <p>Postdoc Researcher</p>
 
@@ -38,5 +39,5 @@ In the past few years, I was involved in several computational humanities projec
     <li>languages varieties, register studies, text complexity</li>
 </ul>
 Download <a href="assets/pdf/en_kunilovskaya_CV_Sept11-2023.pdf" target="blank">curriculum vitae</a>
-<a href="assets/pdf/2017_2023_selected.pdf" target="blank">2017-2023 publications</a>
+<a href="assets/pdf/2017_2024_headed.pdf" target="blank">2017-2023 publications</a>
 <!--- ; <a href="../../../latex/kunilovskaya_europass_13Apr2022.pdf" target="blank">Europass</a> --->
