@@ -6,8 +6,12 @@ description: organising committees, reviewing and participation
 nav: true
 ---
 
-### latest participation in conferences
-##### -- talks
+### latest participation in conferences, workshops
+##### -- talks/posters
+* 13-15 Feb 2025 [RAILS](https://sfb1102.uni-saarland.de/sfb-conference-2025/) with three posters
+* 17 Dec 2024: an invited talk at the research seminar, [Language Technology Group](https://www.mn.uio.no/ifi/english/research/groups/ltg/research-seminar/), University of Oslo 
+* 23 Feb 2024: a talk at the 1st Roundtable on NLP for Luxembourg(ish), University of Luxembourg
+* 01 Dec 2023: an invited talk at Conversations Series, Culture & Computation Lab (University of Luxemburg)
 * 07 Sep 2023 [TSAR](https://tsar-workshop.github.io/program/) at RANLP
 * 03 Sep 2023 [RANLP](http://ranlp.org/ranlp2023/index.php/ps04/)
 * 05 May 2023: [LaTeCH-CLfL](https://sighum.wordpress.com/events/latech-clfl-2023/) at EACL
@@ -26,7 +30,7 @@ see results for *mak* under [Russian-English](https://www.statmt.org/wmt20/quali
 
 ##### -- organising conferences
 * Multilingual Modelling Workshop (MM-WS, 7 June 2024). [Programme](https://kunilovskaya.github.io/assets/pdf/anzeige_A3.pdf), [summary](https://kunilovskaya.github.io/assets/pdf/MM-WS_summary.pdf).
-* RANLP [2021, 2023](https://ranlp.org/), inc. editing [Proceedings](https://acl-bg.org/proceedings/2023/RANLP%202023/RANLP2023-draft-proceedings.pdf)
+* RANLP [2021, 2023, 2025](https://ranlp.org/), inc. editing [Proceedings](https://acl-bg.org/proceedings/2023/RANLP%202023/RANLP2023-draft-proceedings.pdf)
 * EUROPHRAS 2019, [2022](http://lexytrad.es/europhras2022/)
 * TRITON [2021](http://triton-conference.org/home/)
 * NETTT [2022, 2024](https://nettt-conference.com/)
@@ -34,7 +38,8 @@ see results for *mak* under [Russian-English](https://www.statmt.org/wmt20/quali
 ---
 
 ###  programme committee member (reviewing duties)
-* LaTeCH-CLfL workshop 2024
+* RAILs 2025
+* LaTeCH-CLfL workshop 2024, 2025
 * EMNLP 2023
 * ACL-SRW 2023
 * EAMT 2023, 2024
@@ -44,19 +49,19 @@ see results for *mak* under [Russian-English](https://www.statmt.org/wmt20/quali
 * NAACL 2022 Student Workshop
 * NETTT 2022, 2024
 * TRITON 2021
-* RANLP 2019, 2021, 2023
+* RANLP 2019, 2021, 2023, 2025
 * AIST 2021, 2023
 * EUROPHRAS 2019, 2022
 * Translation in Transition (TT2024)
-* RAILs
 
 ### other reviewing
 * JoSTrans, the Journal of specialised translation
 * Cognitive Linguistics (de Gruyter)
-* Journal of Natural Language Engineering (Cambridge University Press)
+* Ampersand (Elsevier, https://www.sciencedirect.com/journal/ampersand)
+* Journal of Natural Language Processing (Cambridge University Press)
 * International Journal of Learner Corpus research
 * Russian Language Journal
-* Recent Advances in MWU in Machine Translation and Translation technology
+* Recent Advances in MWU in Machine Translation and Translation Technology
 * EMTTI/HSE master theses
 
 ---
