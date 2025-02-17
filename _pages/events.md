@@ -8,6 +8,7 @@ nav: true
 
 ### latest participation in conferences, workshops
 ##### -- talks/posters
+* 02-05 Mar 2025 [NoDaLiDa](https://www.nodalida-bhlt2025.eu/), a poster
 * 13-15 Feb 2025 [RAILS](https://sfb1102.uni-saarland.de/sfb-conference-2025/) with three posters
 * 17 Dec 2024: an invited talk at the research seminar, [Language Technology Group](https://www.mn.uio.no/ifi/english/research/groups/ltg/research-seminar/), University of Oslo 
 * 23 Feb 2024: a talk at the 1st Roundtable on NLP for Luxembourg(ish), University of Luxembourg
