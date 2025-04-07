@@ -39,6 +39,8 @@ see results for *mak* under [Russian-English](https://www.statmt.org/wmt20/quali
 ---
 
 ###  programme committee member (reviewing duties)
+* MT Summit 2025
+* UCCTS 2025
 * RAILs 2025
 * LaTeCH-CLfL workshop 2024, 2025
 * EMNLP 2023
