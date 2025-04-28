@@ -11,6 +11,19 @@ category: fun
 
 
 ## Current
+* Mel Robbins. 2024. The Let Them Theory: A Life-Changing Tool That Millions of People Can't Stop Talking About
+* Yuval Harari. 2024. Nexus: A Brief History of Information Networks from the Stone Age to AI
+* Johannes Fried and Peter Lewis, et al. 2016. Charlemagne
+* Sarotte, M.E. and Schnaubelt, Teri et al. 2021. Not One Inch: America, Russia, and the Making of Post-Cold War Stalemate
+* Rosenberg, Marshall B. and Chopra, Deepak, 2015. Nonviolent Communication: A Language of Life (Nonviolent Communication Guides)
+
+## 2024
+* James Hawes. 2019. The Shortest History of Germany: From Julius Caesar to Angela Merkel: A Retelling for Our Times
+* Schafler, Katherine Morgan and Spring, Orion. 2023. The Perfectionist's Guide to Losing Control
+* Густав Майринк. 1927. Ангел западного окна (again)
+* Devon Price, Em Grosland, et al. 2021. Laziness Does Not Exist
+* Дэниел Ергин. 2009. Добыча: Всемирная история борьбы за нефть, деньги и власть
+* Roger Zelazny. 1993. A Night in the Lonesome October  (again)
 * Владимир Пропп. 1928. Морфология волшебной сказки
 * Helmut Walser Smith. 2020. Germany: A Nation in Its Time: Before, During, and After Nationalism
 
