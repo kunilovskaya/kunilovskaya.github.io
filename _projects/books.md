@@ -10,7 +10,8 @@ category: fun
 ---
 
 
-## Current
+## 2025
+* John Fowles. 1963. The Collector.
 * Mel Robbins. 2024. The Let Them Theory: A Life-Changing Tool That Millions of People Can't Stop Talking About
 * Yuval Harari. 2024. Nexus: A Brief History of Information Networks from the Stone Age to AI
 * Johannes Fried and Peter Lewis, et al. 2016. Charlemagne
