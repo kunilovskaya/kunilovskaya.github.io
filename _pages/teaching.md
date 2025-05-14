@@ -7,6 +7,18 @@ nav: true
 ---
 
 ### taught modules and sessions
+#### Summer Semester 2025 (University of Saarland, Sprachwissenschaft und Sprachtechnologie)
+* seminar: Quality in Human and Machine Translation
+* (co-teaching) BA Abschlussarbeit Kolloquium
+* an invited session: HS Empirical Linguistics and Translatology (+ LAB)
+* invited sessions: MA Research Seminar
+
+#### Winter Semester 2025
+* invited sessions: HS Empirical Linguistics and Translatology (+ LAB)
+* invited talk (Information Theory course for PhD students): Application of Information Theory in Translation(ese) Studies
+* invited lecture Vorlesung VL Perspektiven der Linguistik, BA Language Science: Translation and Interpreting Studies,
+Translation Quality and MT
+---
 
 * May 2024: a lecture on Empirical Translation Studies + lab on parallel corpora building and annotation for Language Science and Technology master students (as part of a Hauptseminar "Empirical Linguistics and Translatology")
 * April 2024: an invited talk at the Information Theory school on Applications of infomation theory indices in translation studies
@@ -23,6 +35,10 @@ See <a href="../../../latex/all_teaching.pdf" target="blank">a list of modules</
 ### supervision
 **master students**
 <dl>  
+  <dt>Giulia Quadri, 2025</dt>
+  <dd>Regular Sentence Structure Transformations in German-to-English Human and Machine Translation of Touristic Text</dd>
+  <dt>Anastasia Tasioudi, 2025</dt>
+  <dd>AI vs Commercial and Open-Source Translation Models: A Comparative Analysis of Translation Quality (based on EN-DE translation of a popular-scientific text)</dd>
   <dt>Kateryna Poltorak, 2022</dt>
   <dd>Register variation in English-to-Spanish translation</dd>
   <dt>René Alberto García Taboada, 2022</dt>
@@ -31,7 +47,7 @@ See <a href="../../../latex/all_teaching.pdf" target="blank">a list of modules</
   <dd>Comparative Evaluation of Generic NMT Systems: Human Judgment and Automatic Metrics</dd>
 </dl>
 
-*+ more than 20 Specialist degree and Bachelor's students (before 2019)*
+*+ more than 20 Specialist degree and BA students (before 2019)*
 
 ---
 
