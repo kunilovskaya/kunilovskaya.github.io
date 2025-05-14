@@ -9,5 +9,3 @@ I also co-teach P4: Abschlusskolloquium for BA Language Science with Annemarie V
 This is a truly rewarding experience I must say. Not only you get to understand things in more depth and realise that you actually have a lot to share, 
 but also it feels like the students were excited about these instruments. 
 I was offered to teach this course alone next semester. 
-
-
