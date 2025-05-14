@@ -17,7 +17,7 @@ And I am very happy with my recent acquisition -- Kindle Scribe -- bought specif
 
 ---
 
-I am proud to be named an outstanding reviewer by COLING-2025 organizers: <a href="assets/img/who_is_outstanding_coling2025.jpg" target="blank">see a picture</a>
+I am proud to be named an outstanding reviewer by COLING-2025 organizers: <a href="/assets/img/who_is_outstanding_coling2025.jpg" target="blank">see a picture</a>
 
 ---
 
