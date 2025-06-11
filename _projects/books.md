@@ -11,6 +11,8 @@ category: fun
 
 
 ## 2025
+* Hermann Hesse. 1927. Steppenwolf (in Russian translation)
+* Boris Akunin. 2012. Aristonomia (in Russian, again) 
 * John Fowles. 1963. The Collector.
 * Mel Robbins. 2024. The Let Them Theory: A Life-Changing Tool That Millions of People Can't Stop Talking About
 * Yuval Harari. 2024. Nexus: A Brief History of Information Networks from the Stone Age to AI
