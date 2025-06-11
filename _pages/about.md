@@ -19,7 +19,7 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}
 ---
 I am currently a postdoc with University of Saarland (Germany) working on modelling mediated language to explore the memory-surprisal trade-off hypothesis from information theory. 
-My PhD (completed March 2023, supervisor: Prof. Mitkov, <a href="http://rgcl.wlv.ac.uk/" target="_blank">RGCL</a>, UK) was on human translation quality estimation. A lot of my efforts were invested in building <a href="https://www.rus-ltc.org/static/html/about.html" target="_blank">learner parallel</a> and comparable corpora. 
+My PhD (completed March 2023, supervisor: Prof. Mitkov, UK) was on human translation quality estimation. A lot of my efforts were invested in building <a href="https://www.rus-ltc.org/static/html/about.html" target="_blank">learner parallel</a> and comparable corpora. 
 
 Before that I held an Associate Professor position at a Translation Studies department, lecturing in Translation Studies, Theoretical Linguistics and Corpus Linguistics.
 I have a PhD (Candidate of Science) in Contrastive Linguistics (completed 2004, adviser: Prof. Brodovich, Saint Petersburg University).
