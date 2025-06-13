@@ -3,11 +3,11 @@
   {% if site.news != blank %}
     {% assign all_news = site.news | reverse %}
     {% assign news_size = all_news | size %}
-    {% assign limited_news = all_news | slice: 0, site.news_limit %}
+<!--    {% assign limited_news = all_news | slice: 0, site.news_limit %}-->
 
     <div class="table-responsive"{% if site.news_scrollable and news_size > site.news_limit %} style="max-height: 10vw; overflow-y: auto;"{% endif %}>
       <table class="table table-sm table-borderless">
-        {% for item in limited_news %}
+        {% for item in all_news %}
           <tr>
             <th scope="row">{{ item.date | date: "%b %-d, %Y" }}</th>
             <td>
