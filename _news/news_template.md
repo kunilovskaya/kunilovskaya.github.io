@@ -1,8 +1,12 @@
 ---
 layout: post
-date: 2023-09-04
+date: 2025-05-13
 inline: true
 ---
 
--- presented two papers at the RANLP and discussed a piece of research that did not feel like a paper. I was also heavily involved in the RANLP OC.
+-- This semester, except for my own seminar on translation quality, 
+I also co-teach P4: Abschlusskolloquium for BA Language Science with Annemarie Verkerk. Today I talked about structuring Related, reference managers and note-taking tools.
+This is a truly rewarding experience I must say. Not only you get to understand things in more depth and realise that you actually have a lot to share, 
+but also it feels like the students were excited about these instruments. 
+
 
