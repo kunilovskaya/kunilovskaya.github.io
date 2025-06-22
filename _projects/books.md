@@ -11,6 +11,8 @@ category: fun
 
 
 ## 2025
+* Khaled Hosseini. 2003. The Kite Runner (in Russian translation)
+* Arthur Golden. 1997. Memoirs of a Geisha (in Russian translation)
 * Hermann Hesse. 1927. Steppenwolf (in Russian translation)
 * Boris Akunin. 2012. Aristonomia (in Russian, again) 
 * John Fowles. 1963. The Collector.
