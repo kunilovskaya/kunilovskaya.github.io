@@ -11,6 +11,10 @@ category: fun
 
 
 ## 2025
+* Stefan Zweig. 1941. Die Welt von Gestern (in Russian)
+* Jostein Gaarder. 1991. Sophie's World (continue to love Scandinavian literature)
+* attempted Genki Kawamura's If Cats Disappeared from the World (2016)
+* attempted Marcel Proust's Swann's Way and Laurent Gounelle's The Gods Always Travel Incognito (dropped both, not a fan of the French literature)
 * Khaled Hosseini. 2003. The Kite Runner (in Russian translation)
 * Arthur Golden. 1997. Memoirs of a Geisha (in Russian translation)
 * Hermann Hesse. 1927. Steppenwolf (in Russian translation)
@@ -19,6 +23,7 @@ category: fun
 * Mel Robbins. 2024. The Let Them Theory: A Life-Changing Tool That Millions of People Can't Stop Talking About
 * Yuval Harari. 2024. Nexus: A Brief History of Information Networks from the Stone Age to AI
 * Johannes Fried and Peter Lewis, et al. 2016. Charlemagne
+* Stefan Zweig. Short stories collection. 24 hours in a Women's Life.
 * Sarotte, M.E. and Schnaubelt, Teri et al. 2021. Not One Inch: America, Russia, and the Making of Post-Cold War Stalemate
 * Rosenberg, Marshall B. and Chopra, Deepak, 2015. Nonviolent Communication: A Language of Life (Nonviolent Communication Guides)
 
