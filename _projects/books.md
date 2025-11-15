@@ -11,11 +11,14 @@ category: fun
 
 
 ## 2025
+* Bertrand Russell. 1945. A History of Western Philosophy 
+* Daron Acemoglu and James A. Robinson. 2012. Why Nations Fail: The Origins of Power, Prosperity, and Poverty
 * Stefan Zweig. 1941. Die Welt von Gestern (in Russian)
 * Jostein Gaarder. 1991. Sophie's World (continue to love Scandinavian literature)
 * attempted Genki Kawamura's If Cats Disappeared from the World (2016)
 * attempted Marcel Proust's Swann's Way and Laurent Gounelle's The Gods Always Travel Incognito (dropped both, not a fan of the French literature)
 * Khaled Hosseini. 2003. The Kite Runner (in Russian translation)
+* Oleg Dorman, Lilianna Lungina. 2019. Word for Word: A Translator's Memoir of Literature, Politics, and Survival in Soviet Russia (in Russian).
 * Arthur Golden. 1997. Memoirs of a Geisha (in Russian translation)
 * Hermann Hesse. 1927. Steppenwolf (in Russian translation)
 * Boris Akunin. 2012. Aristonomia (in Russian, again) 
