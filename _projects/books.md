@@ -11,8 +11,11 @@ category: fun
 
 
 ## 2025
-* Bertrand Russell. 1945. A History of Western Philosophy 
+* current: Margaret Atwood. 1996. Alias Grace (again)
+* attempted David Graeber, David Wengrow. The Dawn of Everything (dropped after a few chapters)
+* Bertrand Russell. 1945. A History of Western Philosophy (dropped due to lack of cognitive capacity at the moment)
 * Daron Acemoglu and James A. Robinson. 2012. Why Nations Fail: The Origins of Power, Prosperity, and Poverty
+* Stefan Zweig. 1932. Marie Antoinette: Bildnis eines mittleren Charakters (in Russian translation)
 * Stefan Zweig. 1941. Die Welt von Gestern (in Russian)
 * Jostein Gaarder. 1991. Sophie's World (continue to love Scandinavian literature)
 * attempted Genki Kawamura's If Cats Disappeared from the World (2016)
