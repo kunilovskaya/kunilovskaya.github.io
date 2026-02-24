@@ -11,7 +11,8 @@ category: fun
 
 
 ## 2025
-* current: Margaret Atwood. 1996. Alias Grace (again)
+* Teffi. 1931. An adventure novel [Авантюрный роман]. A radio play (in Russian)
+* Margaret Atwood. 1996. Alias Grace (again, dropped due to lack of cognitive capacity at the time)
 * attempted David Graeber, David Wengrow. The Dawn of Everything (dropped after a few chapters)
 * Bertrand Russell. 1945. A History of Western Philosophy (dropped due to lack of cognitive capacity at the moment)
 * Daron Acemoglu and James A. Robinson. 2012. Why Nations Fail: The Origins of Power, Prosperity, and Poverty
