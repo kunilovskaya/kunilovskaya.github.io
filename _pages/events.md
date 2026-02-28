@@ -9,6 +9,9 @@ nav: true
 ### latest participation in conferences, workshops
 
 ##### -- talks/posters
+* 18 Feb NLLG Retreat poster
+* 06 Feb Prediction in Interpreting, B7 WS
+* 09 Sep UCCTS
 * 09 May 2025 [Forli](https://dit.unibo.it/it/eventi/second-forli-international-workshop-on-corpus-based-interpreting-studies-and-applications-at-the-interface-of-data-and-technology)
 * 03 Mar 2025 [NoDaLiDa](https://www.nodalida-bhlt2025.eu/), a poster
 * 13-15 Feb 2025 [RAILS](https://sfb1102.uni-saarland.de/sfb-conference-2025/) with three posters
