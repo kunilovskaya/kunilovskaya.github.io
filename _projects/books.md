@@ -9,9 +9,11 @@ importance: 2
 category: fun
 ---
 
+## 2026
+* Wolfgang Münchau. Dec 2024. Kaput: The End of the German Miracle. Swift Press Audio
+* Teffi. 1931. An adventure novel [Авантюрный роман]. A radio play (in Russian)
 
 ## 2025
-* Teffi. 1931. An adventure novel [Авантюрный роман]. A radio play (in Russian)
 * Margaret Atwood. 1996. Alias Grace (again, dropped due to lack of cognitive capacity at the time)
 * attempted David Graeber, David Wengrow. The Dawn of Everything (dropped after a few chapters)
 * Bertrand Russell. 1945. A History of Western Philosophy (dropped due to lack of cognitive capacity at the moment)
