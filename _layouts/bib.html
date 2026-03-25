@@ -151,7 +151,14 @@
           {% if entry.bibtex_show -%}
           <!-- Hidden bibtex block -->
           <div class="bibtex hidden">
-            {% highlight bibtex %}{{ entry.bibtex }}{% endhighlight %}
+            <!-- {% highlight bibtex %}{{ entry.bibtex }}{% endhighlight %} -->
+            {% capture clean_bibtex %}
+            {{ entry.bibtex
+              | replace_regex: '.*selected\s*=\s*\{.*\},\n', ''
+              | replace_regex: '.*abbr\s*=\s*\{.*\},\n', ''
+              | replace_regex: '.*bibtex_show\s*=\s*\{.*\},\n', ''
+            }}
+            {% endcapture %}
           </div>
           {%- endif %}
         </div>
