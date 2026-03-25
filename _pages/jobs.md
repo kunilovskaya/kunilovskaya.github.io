@@ -18,7 +18,7 @@ Natural Language Learning & Generation (<a href="https://nl2g.github.io/" target
   <dd>PhD Researcher, University of Wolverhampton (UK)</dd>
   <dt>2019 	- 2023</dt>
   <dd>Senior Researcher, Laboratory of Cultural trends, University of Tyunmen (Russia)</dd>
-  <dt>2019 	- 2023</dt>
+  <dt>2019 	- 2024</dt>
   <dd>Editorial assistant at the <a href="https://mjl.clarivate.com:/search-results?issn=1351-3249&hide_exact_match_fl=true&utm_source=mjl&utm_medium=share-by-link&utm_campaign=search-results-share-this-journal" target="blank">Journal of Natural Language Engineering</a></dd>
   <dt>2015 – 2019</dt>
   <dd>Associate Professor, Department of English Philology and Translation, University of Tyunmen (Russia)</dd>
