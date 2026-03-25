@@ -64,6 +64,7 @@ orcid_id: 0000-0002-1473-4684 # your ORCID ID
 dblp_url: https://dblp.org/pid/150/3653.html # your DBLP profile url
 semantic_scholar_url: https://www.semanticscholar.org/author/3138117
 strava_userid: 25080753
+mastodon_url: https://datasci.social/@mariaku
 twitter_username: # your Twitter handle
 medium_username: # your Medium username
 quora_username: # your Quora username
@@ -223,7 +224,7 @@ scholar:
   # Note: if you have latex math in your bibtex, the latex filter
   # preprocessing may conflict with MathJAX if the latter is enabled.
   # See https://github.com/alshedivat/al-folio/issues/357.
-  bibtex_filters: [latex, smallcaps, superscript]
+  bibtex_filters: [ latex, smallcaps, superscript ]
 
   replace_strings: true
   join_strings: true
