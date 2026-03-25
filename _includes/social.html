@@ -24,6 +24,10 @@
             <a href="https://www.strava.com/athletes/{{ site.strava_userid }}" title="Strava"><i class="fab fa-strava"></i></a>
             {% endif %}
 
+            {%- if site.mastodon_url -%}
+            <a href="{{ site.mastodon_url }}" title="Mastodon" rel="me"><i class="fab fa-mastodon"></i></a>
+            {%- endif -%}
+
             {%- if site.publons_id -%}
             <a href="https://publons.com/a/{{ site.publons_id }}/" title="Publons"><i class="ai ai-publons"></i></a>
             {% endif %}

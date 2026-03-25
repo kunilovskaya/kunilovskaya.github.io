@@ -1,6 +1,9 @@
 ---
 ---
 <!-- _layouts/bib.html -->
+
+{%- assign show_bib = entry.bibtex_show | default: "false" | downcase -%}
+
       <div class="row">
         <div class="col-sm-2 abbr">
         {%- if entry.abbr -%}
@@ -37,7 +40,7 @@
                 {%- endif -%}
               {%- endfor -%}
             {%- endif -%}
-            
+
             {%- if forloop.length == 1 -%}
               {%- if author_is_self %}
                 <em>{{author.last}}, {{author.first}}</em>
@@ -87,21 +90,25 @@
             {{ periodical | strip }}
           </div>
         {%- endif %}
-        
+
           <!-- Links/Buttons -->
           <div class="links">
           {%- if entry.abstract %}
             <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
           {%- endif %}
-          {%- if entry.arxiv %}
-            <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button">arXiv</a>
+          {%- if entry.eprint %}
+            <a href="http://arxiv.org/abs/{{ entry.eprint }}" class="btn btn-sm z-depth-0" role="button">arXiv</a>
           {%- endif %}
-          {%- if entry.bibtex_show %}
-            <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
+            {%- if entry.bibtex_show == "true" -%}
+              <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
+            {%- endif -%}
+          {%- if entry.url %}
+            <a href="{{ entry.url }}" class="btn btn-sm z-depth-0" role="button">URL</a>
           {%- endif %}
-          {%- if entry.html %}
-            <a href="{{ entry.html }}" class="btn btn-sm z-depth-0" role="button">HTML</a>
-          {%- endif %}
+
+            {%- if entry.doi %}
+              <a href="https://doi.org/{{ entry.doi }}" class="btn btn-sm z-depth-0" role="button">DOI</a>
+            {%- endif %}
           {%- if entry.pdf %}
             {% if entry.pdf contains '://' -%}
             <a href="{{ entry.pdf }}" class="btn btn-sm z-depth-0" role="button">PDF</a>
@@ -148,11 +155,11 @@
           </div>
           {%- endif -%}
 
-          {% if entry.bibtex_show -%}
-          <!-- Hidden bibtex block -->
-          <div class="bibtex hidden">
-            {% highlight bibtex %}{{ entry.bibtex }}{% endhighlight %}
-          </div>
-          {%- endif %}
+          {% if entry.bibtex_show == "true" -%}
+           <div class="bibtex hidden">
+             {% highlight bibtex %}{{ entry.bibtex }}{% endhighlight %}
+           </div>
+         {%- endif -%}
+
         </div>
       </div>
