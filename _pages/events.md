@@ -11,7 +11,8 @@ nav: true
 ##### -- talks/posters
 * 18 Feb 2026 NLLG Retreat poster
 * 06 Feb 2026 Prediction in Interpreting, B7 WS
------------
+
+
 * 09 Sep 2025 UCCTS
 * 09 May 2025 [Forli](https://dit.unibo.it/it/eventi/second-forli-international-workshop-on-corpus-based-interpreting-studies-and-applications-at-the-interface-of-data-and-technology)
 * 03 Mar 2025 [NoDaLiDa](https://www.nodalida-bhlt2025.eu/), a poster
