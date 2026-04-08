@@ -1,8 +1,8 @@
 ---
 layout: post
-title: beeindruckt
+title: Warum wir schlafen (und was passiert, wenn wir es nicht tun)
 date: 2026-04-07 
-description: b2 telc schreiben
+description: Sachbuch über Schlaf und die Auswirkungen von Schlafmangel auf die Gesundheit
 
 ---
 
