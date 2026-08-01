@@ -7,9 +7,10 @@ importance: 2
 category: fun
 ---
 <div class="caption">
-West Germany has far better cycling routes. I struggle each morning uphill to the Uni, waiting till it gets less painful. 
+South-west Germany has far better cycling routes. I struggle each morning uphill to the Uni, waiting till it gets less painful. 
 It should after a few months, right? I have seen some progress after the first four weeks on my new Bergsteiger bike.
-I had quite a cycling adventure in Paris in summer 2023. 
+I had quite a cycling adventure in Paris in summer 2023 -- on a rented e-bike with the youngest of my kids. 
+The adventure included going losing the correct direction and arriving at the starting point follow Google maps and a stolen bike as I failed to secure it properly in the downtown.
 </div>
 
 <div class="container">

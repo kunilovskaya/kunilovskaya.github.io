@@ -10,6 +10,8 @@ category: fun
 ---
 
 ## 2026
+* Francis Fukuyama. 2014. Political Order and Political Decay: From the Industrial Revolution to the Present Day
+* Francis Fukuyama. 2011. The Origins of Political Order: From Prehuman Times to the French Revolution
 * Matthew Walker. 2018. Why We Sleep: Unlocking the Power of Sleep and Dreams. (controversial: <a href="https://guzey.com/books/why-we-sleep/" target="blank">Bad science criticism</a> and <a href="https://statmodeling.stat.columbia.edu/2019/12/27/why-we-sleep-data-manipulation-a-smoking-gun/" target="blank">here</a>, courtesy Christina Pollkläsner).
 * Wolfgang Münchau. Dec 2024. Kaput: The End of the German Miracle. Swift Press Audio
 * Teffi. 1931. An adventure novel [Авантюрный роман]. A radio play (in Russian)
