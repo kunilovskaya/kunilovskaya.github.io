@@ -4,36 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="772cd99f-19a3-4177-8007-9e6a0fd3a16c" name="Default Changelist" comment="new fixed">
-      <change afterPath="$PROJECT_DIR$/_news/lux.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_news/news_template.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_news/prompts_finished.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.github/FUNDING.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/FUNDING.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/bug_report.md" beforeDir="false" afterPath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/bug_report.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/feature_request.md" beforeDir="false" afterPath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/feature_request.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.github/stale.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/stale.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.github/workflows/deploy.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/deploy.yml" afterDir="false" />
+    <list default="true" id="772cd99f-19a3-4177-8007-9e6a0fd3a16c" name="Default Changelist" comment="main EMNLP-2026!">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/events.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/events.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_projects/books.md" beforeDir="false" afterPath="$PROJECT_DIR$/_projects/books.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/latex/en_kunilovskaya_CV_Sept11-2023.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/latex/en_kunilovskaya_CV_Sept11-2023.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/old_news/aist_talk.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/old_news/digital_skills4research_done.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/old_news/htqe_session_Apr2022.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/old_news/malaga.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/old_news/nettt_plans.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/old_news/pgcert.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/old_news/start_elsewhere.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_bibliography/papers.bib" beforeDir="false" afterPath="$PROJECT_DIR$/_bibliography/papers.bib" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="18185" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;kunilovskaya&quot;
+  }
+}</component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
       <filtered-out-file-type name="LOCAL_BRANCH" />
@@ -42,12 +35,85 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/kunilovskaya/kunilovskaya.github.io.git&quot;,
+    &quot;accountId&quot;: &quot;71ddd53d-e217-42be-a90d-fb288700832b&quot;
+  }
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.0" />
+      <entry key="S30" value="1.0" />
+      <entry key="S60" value="1.0000000000003553" />
+      <entry key="M2" value="1.0000013281679632" />
+      <entry key="M5" value="1.0136471394745143" />
+      <entry key="M10" value="1.3748762531605574" />
+      <entry key="M15" value="2.2060510579911927" />
+      <entry key="M30" value="5.031232456164179" />
+      <entry key="H1" value="8.477445679321624" />
+      <entry key="H2" value="11.219819314732861" />
+      <entry key="H4" value="12.958115505188177" />
+      <entry key="D1" value="14.636415377729891" />
+      <entry key="W1" value="14.947458504359995" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="3.320886853394029E-6" />
+      <entry key="MS500" value="0.0802141185976815" />
+      <entry key="S2" value="0.5321850912266799" />
+      <entry key="S5" value="0.7770072687840496" />
+      <entry key="S10" value="0.88148015790717" />
+      <entry key="S30" value="0.9588209475810837" />
+      <entry key="S60" value="0.9791940295885071" />
+      <entry key="M2" value="0.9895436604703499" />
+      <entry key="M5" value="1.0094458766654903" />
+      <entry key="M10" value="1.3726966781150152" />
+      <entry key="M15" value="2.2044701385582055" />
+      <entry key="M30" value="5.030212778477857" />
+      <entry key="H1" value="8.476791211245487" />
+      <entry key="H2" value="11.219433569946855" />
+      <entry key="H4" value="12.957903937039404" />
+      <entry key="D1" value="14.636377093028226" />
+      <entry key="W1" value="14.947452954865765" />
+    </decayedShown>
   </component>
   <component name="ProblemsViewState">
     <option name="selectedIndex" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="277tJarV1IZXmYjYpNf1c22TpVA" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -56,23 +122,49 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/_news" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "/home/maria/main/proj/github/kunilovskaya/_news",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/_news" />
+      <recent name="$PROJECT_DIR$/_posts" />
       <recent name="$PROJECT_DIR$/_projects" />
-      <recent name="$PROJECT_DIR$/latex" />
-      <recent name="$PROJECT_DIR$/_bibliography" />
       <recent name="$PROJECT_DIR$/_pages" />
+      <recent name="$PROJECT_DIR$/../../../sci/CONF" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_news" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/_news/old" />
       <recent name="$PROJECT_DIR$/old_news" />
     </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-PY-261.26222.68" />
+        <option value="bundled-python-sdk-50341a9f1f9c-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.26222.68" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -120,212 +212,404 @@
       <workItem from="1698959538425" duration="1405000" />
       <workItem from="1699033273925" duration="225000" />
       <workItem from="1701106559509" duration="893000" />
-      <workItem from="1704710550024" duration="2912000" />
+      <workItem from="1704710550024" duration="3615000" />
+      <workItem from="1707216432289" duration="302000" />
+      <workItem from="1708940195300" duration="4957000" />
+      <workItem from="1709496553085" duration="335000" />
+      <workItem from="1710844932594" duration="236000" />
+      <workItem from="1710955216424" duration="59000" />
+      <workItem from="1711712701938" duration="555000" />
+      <workItem from="1712931153994" duration="3248000" />
+      <workItem from="1718098322036" duration="5018000" />
+      <workItem from="1719664393654" duration="1753000" />
+      <workItem from="1730209229588" duration="1308000" />
+      <workItem from="1734096876705" duration="3667000" />
+      <workItem from="1734101673451" duration="39000" />
+      <workItem from="1734101808879" duration="74000" />
+      <workItem from="1734102266562" duration="76000" />
+      <workItem from="1738074390677" duration="722000" />
+      <workItem from="1739279638647" duration="1741000" />
+      <workItem from="1739296455447" duration="1735000" />
+      <workItem from="1739800128914" duration="2233000" />
+      <workItem from="1742640925143" duration="647000" />
+      <workItem from="1744041297094" duration="2025000" />
+      <workItem from="1744386876031" duration="694000" />
+      <workItem from="1745866854120" duration="2515000" />
+      <workItem from="1746448700342" duration="1033000" />
+      <workItem from="1747142662709" duration="13100000" />
+      <workItem from="1747385175015" duration="696000" />
+      <workItem from="1747648388791" duration="39000" />
+      <workItem from="1749652952891" duration="4080000" />
+      <workItem from="1749801658278" duration="4512000" />
+      <workItem from="1749807826134" duration="3842000" />
+      <workItem from="1750585146244" duration="852000" />
+      <workItem from="1750594238700" duration="2502000" />
+      <workItem from="1750617699594" duration="921000" />
+      <workItem from="1750710049617" duration="9000" />
+      <workItem from="1750839115857" duration="1032000" />
+      <workItem from="1756374309634" duration="2315000" />
+      <workItem from="1756388107598" duration="1869000" />
+      <workItem from="1758016957671" duration="5843000" />
+      <workItem from="1758101453808" duration="2580000" />
+      <workItem from="1758316435750" duration="1454000" />
+      <workItem from="1758628790720" duration="649000" />
+      <workItem from="1758640760105" duration="549000" />
+      <workItem from="1758641983964" duration="208000" />
+      <workItem from="1763236698929" duration="518000" />
+      <workItem from="1771940892102" duration="447000" />
+      <workItem from="1771941349500" duration="4110000" />
+      <workItem from="1774437662557" duration="23296000" />
+      <workItem from="1775598126587" duration="4824000" />
+      <workItem from="1782693957637" duration="5684000" />
+      <workItem from="1782720541533" duration="31000" />
+      <workItem from="1783338918858" duration="5304000" />
+      <workItem from="1785547668248" duration="236000" />
+      <workItem from="1787664982242" duration="5742000" />
     </task>
-    <task id="LOCAL-00001" summary="pics">
-      <created>1649291699502</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
+    <task id="LOCAL-00104" summary="_posts update">
+      <created>1749809780973</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
       <option name="project" value="LOCAL" />
-      <updated>1649291699502</updated>
+      <updated>1749809780973</updated>
     </task>
-    <task id="LOCAL-00002" summary="pics">
-      <created>1650747435817</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
+    <task id="LOCAL-00105" summary="scrollable news">
+      <created>1749809838367</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
       <option name="project" value="LOCAL" />
-      <updated>1650747435817</updated>
+      <updated>1749809838367</updated>
     </task>
-    <task id="LOCAL-00003" summary="fixed city">
-      <created>1650810297543</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
+    <task id="LOCAL-00106" summary="_posts update">
+      <created>1749810308956</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
       <option name="project" value="LOCAL" />
-      <updated>1650810297543</updated>
+      <updated>1749810308957</updated>
     </task>
-    <task id="LOCAL-00004" summary="small fixes">
-      <created>1651703568801</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
+    <task id="LOCAL-00107" summary="_posts update">
+      <created>1749810569725</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
       <option name="project" value="LOCAL" />
-      <updated>1651703568801</updated>
+      <updated>1749810569725</updated>
     </task>
-    <task id="LOCAL-00005" summary="nettt">
-      <created>1654790352938</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
+    <task id="LOCAL-00108" summary="2022 papers update">
+      <created>1749810976306</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
       <option name="project" value="LOCAL" />
-      <updated>1654790352938</updated>
+      <updated>1749810976306</updated>
     </task>
-    <task id="LOCAL-00006" summary="small fixes">
-      <created>1654804082716</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
+    <task id="LOCAL-00109" summary="_posts update">
+      <created>1749811067613</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
       <option name="project" value="LOCAL" />
-      <updated>1654804082716</updated>
+      <updated>1749811067613</updated>
     </task>
-    <task id="LOCAL-00007" summary="cv update">
-      <created>1654859576178</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
+    <task id="LOCAL-00110" summary="books update">
+      <created>1750586086413</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
       <option name="project" value="LOCAL" />
-      <updated>1654859576178</updated>
+      <updated>1750586086413</updated>
     </task>
-    <task id="LOCAL-00008" summary="at for @">
-      <created>1654870202604</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
+    <task id="LOCAL-00111" summary="cv update">
+      <created>1750598864868</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
       <option name="project" value="LOCAL" />
-      <updated>1654870202604</updated>
+      <updated>1750598864869</updated>
     </task>
-    <task id="LOCAL-00009" summary="mmonitor news">
-      <created>1657669101094</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
+    <task id="LOCAL-00112" summary="new_pdfs">
+      <created>1750599104083</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
       <option name="project" value="LOCAL" />
-      <updated>1657669101094</updated>
+      <updated>1750599104083</updated>
     </task>
-    <task id="LOCAL-00010" summary="cv update">
-      <created>1657669817825</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
+    <task id="LOCAL-00113" summary="pdf again">
+      <created>1750599274163</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
       <option name="project" value="LOCAL" />
-      <updated>1657669817825</updated>
+      <updated>1750599274163</updated>
     </task>
-    <task id="LOCAL-00011" summary="cv update">
-      <created>1657669889625</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
+    <task id="LOCAL-00114" summary="_posts update">
+      <created>1750601064134</created>
+      <option name="number" value="00114" />
+      <option name="presentableId" value="LOCAL-00114" />
       <option name="project" value="LOCAL" />
-      <updated>1657669889625</updated>
+      <updated>1750601064134</updated>
     </task>
-    <task id="LOCAL-00012" summary="cv update">
-      <created>1657671325568</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
+    <task id="LOCAL-00115" summary="ranlp-25 news">
+      <created>1756377097968</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
       <option name="project" value="LOCAL" />
-      <updated>1657671325568</updated>
+      <updated>1756377097969</updated>
     </task>
-    <task id="LOCAL-00013" summary="cv update">
-      <created>1657671490754</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
+    <task id="LOCAL-00116" summary="konvens news">
+      <created>1756389959588</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
       <option name="project" value="LOCAL" />
-      <updated>1657671490754</updated>
+      <updated>1756389959588</updated>
     </task>
-    <task id="LOCAL-00014" summary="cv update">
-      <created>1657746035086</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
+    <task id="LOCAL-00117" summary="update for nllg docs">
+      <created>1758022962935</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
       <option name="project" value="LOCAL" />
-      <updated>1657746035086</updated>
+      <updated>1758022962935</updated>
     </task>
-    <task id="LOCAL-00015" summary="cv update">
-      <created>1657746079712</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
+    <task id="LOCAL-00118" summary="back2office piece">
+      <created>1758024504558</created>
+      <option name="number" value="00118" />
+      <option name="presentableId" value="LOCAL-00118" />
       <option name="project" value="LOCAL" />
-      <updated>1657746079712</updated>
+      <updated>1758024504558</updated>
     </task>
-    <task id="LOCAL-00016" summary="cv update">
-      <created>1657746305927</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
+    <task id="LOCAL-00119" summary="konvens news">
+      <created>1758025163341</created>
+      <option name="number" value="00119" />
+      <option name="presentableId" value="LOCAL-00119" />
       <option name="project" value="LOCAL" />
-      <updated>1657746305927</updated>
+      <updated>1758025163341</updated>
     </task>
-    <task id="LOCAL-00017" summary="cv update">
-      <created>1657751311630</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
+    <task id="LOCAL-00120" summary="konvens news">
+      <created>1758103324187</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
       <option name="project" value="LOCAL" />
-      <updated>1657751311630</updated>
+      <updated>1758103324187</updated>
     </task>
-    <task id="LOCAL-00018" summary="cv update">
-      <created>1657881087959</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
+    <task id="LOCAL-00121" summary="konvens news">
+      <created>1758103800702</created>
+      <option name="number" value="00121" />
+      <option name="presentableId" value="LOCAL-00121" />
       <option name="project" value="LOCAL" />
-      <updated>1657881087959</updated>
+      <updated>1758103800702</updated>
     </task>
-    <task id="LOCAL-00019" summary="old unpushed changes">
-      <created>1685357550017</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
+    <task id="LOCAL-00122" summary="konvens news">
+      <created>1758103987316</created>
+      <option name="number" value="00122" />
+      <option name="presentableId" value="LOCAL-00122" />
       <option name="project" value="LOCAL" />
-      <updated>1685357550017</updated>
+      <updated>1758103987316</updated>
     </task>
-    <task id="LOCAL-00020" summary="Readme update">
-      <created>1685368374215</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
+    <task id="LOCAL-00123" summary="books">
+      <created>1763237209493</created>
+      <option name="number" value="00123" />
+      <option name="presentableId" value="LOCAL-00123" />
       <option name="project" value="LOCAL" />
-      <updated>1685368374215</updated>
+      <updated>1763237209495</updated>
     </task>
-    <task id="LOCAL-00021" summary="news 30 June 2023">
-      <created>1688142498473</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
+    <task id="LOCAL-00124" summary="news,books">
+      <created>1771943471657</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
       <option name="project" value="LOCAL" />
-      <updated>1688142498473</updated>
+      <updated>1771943471658</updated>
     </task>
-    <task id="LOCAL-00022" summary="Readme update">
-      <created>1688143150493</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
+    <task id="LOCAL-00125" summary="bib,cv update">
+      <created>1771946956225</created>
+      <option name="number" value="00125" />
+      <option name="presentableId" value="LOCAL-00125" />
       <option name="project" value="LOCAL" />
-      <updated>1688143150493</updated>
+      <updated>1771946956225</updated>
     </task>
-    <task id="LOCAL-00023" summary="new fixed">
-      <created>1688311517943</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
+    <task id="LOCAL-00126" summary="books, jobs, events, papers update">
+      <created>1774441276394</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
       <option name="project" value="LOCAL" />
-      <updated>1688311517943</updated>
+      <updated>1774441276395</updated>
     </task>
-    <task id="LOCAL-00024" summary="added Harper Lee">
-      <created>1697131072877</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
+    <task id="LOCAL-00127" summary="date and italics fix">
+      <created>1774442645656</created>
+      <option name="number" value="00127" />
+      <option name="presentableId" value="LOCAL-00127" />
       <option name="project" value="LOCAL" />
-      <updated>1697131072877</updated>
+      <updated>1774442645656</updated>
     </task>
-    <task id="LOCAL-00025" summary="2017-2023papers">
-      <created>1698760287626</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
+    <task id="LOCAL-00128" summary="bibtex filtering for bib">
+      <created>1774444013099</created>
+      <option name="number" value="00128" />
+      <option name="presentableId" value="LOCAL-00128" />
       <option name="project" value="LOCAL" />
-      <updated>1698760287626</updated>
+      <updated>1774444013099</updated>
     </task>
-    <task id="LOCAL-00026" summary="new fixed">
-      <created>1698760423166</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
+    <task id="LOCAL-00129" summary="limit pubs on front page to 2">
+      <created>1774444521827</created>
+      <option name="number" value="00129" />
+      <option name="presentableId" value="LOCAL-00129" />
       <option name="project" value="LOCAL" />
-      <updated>1698760423166</updated>
+      <updated>1774444521827</updated>
     </task>
-    <task id="LOCAL-00027" summary="new fixed">
-      <created>1698960338702</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
+    <task id="LOCAL-00130" summary="filter bib">
+      <created>1774444795635</created>
+      <option name="number" value="00130" />
+      <option name="presentableId" value="LOCAL-00130" />
       <option name="project" value="LOCAL" />
-      <updated>1698960338702</updated>
+      <updated>1774444795635</updated>
     </task>
-    <task id="LOCAL-00028" summary="books">
-      <created>1701106680579</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
+    <task id="LOCAL-00131" summary="filter bib, fix errors">
+      <created>1774444986582</created>
+      <option name="number" value="00131" />
+      <option name="presentableId" value="LOCAL-00131" />
       <option name="project" value="LOCAL" />
-      <updated>1701106680579</updated>
+      <updated>1774444986582</updated>
     </task>
-    <task id="LOCAL-00029" summary="new fixed">
-      <created>1701106721754</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
+    <task id="LOCAL-00132" summary="fix error in bib.html">
+      <created>1774446850035</created>
+      <option name="number" value="00132" />
+      <option name="presentableId" value="LOCAL-00132" />
       <option name="project" value="LOCAL" />
-      <updated>1701106721754</updated>
+      <updated>1774446850036</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00133" summary="fix error in selected_papers.html,asterisk">
+      <created>1774447089200</created>
+      <option name="number" value="00133" />
+      <option name="presentableId" value="LOCAL-00133" />
+      <option name="project" value="LOCAL" />
+      <updated>1774447089200</updated>
+    </task>
+    <task id="LOCAL-00134" summary="still problem with replace">
+      <created>1774447440370</created>
+      <option name="number" value="00134" />
+      <option name="presentableId" value="LOCAL-00134" />
+      <option name="project" value="LOCAL" />
+      <updated>1774447440370</updated>
+    </task>
+    <task id="LOCAL-00135" summary="still problem with replace">
+      <created>1774447990973</created>
+      <option name="number" value="00135" />
+      <option name="presentableId" value="LOCAL-00135" />
+      <option name="project" value="LOCAL" />
+      <updated>1774447990973</updated>
+    </task>
+    <task id="LOCAL-00136" summary="removed bibtex show">
+      <created>1774448129685</created>
+      <option name="number" value="00136" />
+      <option name="presentableId" value="LOCAL-00136" />
+      <option name="project" value="LOCAL" />
+      <updated>1774448129685</updated>
+    </task>
+    <task id="LOCAL-00137" summary="local site does not build after update">
+      <created>1774450471553</created>
+      <option name="number" value="00137" />
+      <option name="presentableId" value="LOCAL-00137" />
+      <option name="project" value="LOCAL" />
+      <updated>1774450471553</updated>
+    </task>
+    <task id="LOCAL-00138" summary="--max 2">
+      <created>1774454280429</created>
+      <option name="number" value="00138" />
+      <option name="presentableId" value="LOCAL-00138" />
+      <option name="project" value="LOCAL" />
+      <updated>1774454280429</updated>
+    </task>
+    <task id="LOCAL-00139" summary="horizontal line enlarges font">
+      <created>1774454822737</created>
+      <option name="number" value="00139" />
+      <option name="presentableId" value="LOCAL-00139" />
+      <option name="project" value="LOCAL" />
+      <updated>1774454822737</updated>
+    </task>
+    <task id="LOCAL-00140" summary="bib still with technical fields">
+      <created>1774461716544</created>
+      <option name="number" value="00140" />
+      <option name="presentableId" value="LOCAL-00140" />
+      <option name="project" value="LOCAL" />
+      <updated>1774461716544</updated>
+    </task>
+    <task id="LOCAL-00141" summary="mastodon">
+      <created>1774461754349</created>
+      <option name="number" value="00141" />
+      <option name="presentableId" value="LOCAL-00141" />
+      <option name="project" value="LOCAL" />
+      <updated>1774461754349</updated>
+    </task>
+    <task id="LOCAL-00142" summary="schlagmangel">
+      <created>1775598774476</created>
+      <option name="number" value="00142" />
+      <option name="presentableId" value="LOCAL-00142" />
+      <option name="project" value="LOCAL" />
+      <updated>1775598774476</updated>
+    </task>
+    <task id="LOCAL-00143" summary="schlagmangel">
+      <created>1775634580223</created>
+      <option name="number" value="00143" />
+      <option name="presentableId" value="LOCAL-00143" />
+      <option name="project" value="LOCAL" />
+      <updated>1775634580223</updated>
+    </task>
+    <task id="LOCAL-00144" summary="job update">
+      <created>1775637921526</created>
+      <option name="number" value="00144" />
+      <option name="presentableId" value="LOCAL-00144" />
+      <option name="project" value="LOCAL" />
+      <updated>1775637921526</updated>
+    </task>
+    <task id="LOCAL-00145" summary="june update">
+      <created>1782697084512</created>
+      <option name="number" value="00145" />
+      <option name="presentableId" value="LOCAL-00145" />
+      <option name="project" value="LOCAL" />
+      <updated>1782697084513</updated>
+    </task>
+    <task id="LOCAL-00146" summary="solving unnesessary polyfill.io signin problem">
+      <created>1782699342245</created>
+      <option name="number" value="00146" />
+      <option name="presentableId" value="LOCAL-00146" />
+      <option name="project" value="LOCAL" />
+      <updated>1782699342245</updated>
+    </task>
+    <task id="LOCAL-00147" summary="multibib update">
+      <created>1783339043363</created>
+      <option name="number" value="00147" />
+      <option name="presentableId" value="LOCAL-00147" />
+      <option name="project" value="LOCAL" />
+      <updated>1783339043364</updated>
+    </task>
+    <task id="LOCAL-00148" summary="cv update">
+      <created>1783339129990</created>
+      <option name="number" value="00148" />
+      <option name="presentableId" value="LOCAL-00148" />
+      <option name="project" value="LOCAL" />
+      <updated>1783339129990</updated>
+    </task>
+    <task id="LOCAL-00149" summary="cv update">
+      <created>1783340400256</created>
+      <option name="number" value="00149" />
+      <option name="presentableId" value="LOCAL-00149" />
+      <option name="project" value="LOCAL" />
+      <updated>1783340400256</updated>
+    </task>
+    <task id="LOCAL-00150" summary="utn update">
+      <created>1783340841251</created>
+      <option name="number" value="00150" />
+      <option name="presentableId" value="LOCAL-00150" />
+      <option name="project" value="LOCAL" />
+      <updated>1783340841251</updated>
+    </task>
+    <task id="LOCAL-00151" summary="paragraphing">
+      <created>1783341222941</created>
+      <option name="number" value="00151" />
+      <option name="presentableId" value="LOCAL-00151" />
+      <option name="project" value="LOCAL" />
+      <updated>1783341222941</updated>
+    </task>
+    <task id="LOCAL-00152" summary="minor bib fixes">
+      <created>1783366498776</created>
+      <option name="number" value="00152" />
+      <option name="presentableId" value="LOCAL-00152" />
+      <option name="project" value="LOCAL" />
+      <updated>1783366498777</updated>
+    </task>
+    <option name="localTasksCounter" value="155" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -344,21 +628,31 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="pics" />
-    <MESSAGE value="fixed city" />
-    <MESSAGE value="nettt" />
-    <MESSAGE value="small fixes" />
-    <MESSAGE value="at for @" />
-    <MESSAGE value="mmonitor news" />
+    <MESSAGE value="date and italics fix" />
+    <MESSAGE value="bibtex filtering for bib" />
+    <MESSAGE value="limit pubs on front page to 2" />
+    <MESSAGE value="filter bib" />
+    <MESSAGE value="filter bib, fix errors" />
+    <MESSAGE value="fix error in bib.html" />
+    <MESSAGE value="fix error in selected_papers.html,asterisk" />
+    <MESSAGE value="still problem with replace" />
+    <MESSAGE value="removed bibtex show" />
+    <MESSAGE value="local site does not build after update" />
+    <MESSAGE value="--max 2" />
+    <MESSAGE value="horizontal line enlarges font" />
+    <MESSAGE value="bib still with technical fields" />
+    <MESSAGE value="mastodon" />
+    <MESSAGE value="schlagmangel" />
+    <MESSAGE value="job update" />
+    <MESSAGE value="june update" />
+    <MESSAGE value="solving unnesessary polyfill.io signin problem" />
+    <MESSAGE value="multibib update" />
     <MESSAGE value="cv update" />
-    <MESSAGE value="old unpushed changes" />
-    <MESSAGE value="about update" />
-    <MESSAGE value="news 30 June 2023" />
-    <MESSAGE value="Readme update" />
-    <MESSAGE value="added Harper Lee" />
-    <MESSAGE value="2017-2023papers" />
-    <MESSAGE value="books" />
-    <MESSAGE value="new fixed" />
-    <option name="LAST_COMMIT_MESSAGE" value="new fixed" />
+    <MESSAGE value="utn update" />
+    <MESSAGE value="paragraphing" />
+    <MESSAGE value="minor bib fixes" />
+    <MESSAGE value="books update" />
+    <MESSAGE value="main EMNLP-2026!" />
+    <option name="LAST_COMMIT_MESSAGE" value="main EMNLP-2026!" />
   </component>
 </project>
