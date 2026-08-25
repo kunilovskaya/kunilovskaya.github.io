@@ -13,7 +13,7 @@ The project started at an academic retreat at [Speinshart Monastery](https://klo
 
 and [NLP@IT:U](https://it-u.at/en/research/research-groups/natural-language-processing/), led by Prof. Dr. Yufang Hou
 
-Human annotation remains a backbone of NLP research—but how well do we actually report who our annotators are and how annotation is carried out?
+Human annotation remains a backbone of NLP research but how well do we actually report who our annotators are and how annotation is carried out?
 
 We manually annotated a sample of NLP papers involving human annotation and extended the analysis to more than 2,000 papers from six ACL venues published between 2018 and 2025, allowing us to trace changes in annotation reporting practices over time.
 
