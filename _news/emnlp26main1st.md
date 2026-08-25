@@ -24,7 +24,7 @@ We manually annotated a sample of NLP papers involving human annotation and exte
 <figure>
   <img src="/assets/img/its_by_venue_filter_fair_score.png"
        alt="Reporting quality across ACL venues"
-       style="width: 80%;">
+       style="width: 60%;">
   <figcaption>
     Figure 1. The introduction of the ACL checklist had a standardising
     effect across three major ACL venues.
@@ -34,7 +34,7 @@ We manually annotated a sample of NLP papers involving human annotation and exte
 <figure>
   <img src="/assets/img/uses_filter_fair_score+bars.png"
        alt="Reporting quality across ACL venues"
-       style="width: 80%;">
+       style="width: 60%;">
   <figcaption>
     Figure 2. mean reporting score by intended use of human annotation, tracing yearly trends for all annotation tasks, model-output evaluation, and resource creation.
     effect across three major ACL venues.
