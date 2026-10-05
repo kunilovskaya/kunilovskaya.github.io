@@ -144,6 +144,8 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
+  - current_cv.pdf
+  - headed_multibib_biblatex.pdf
 keep_files:
   - CNAME
   - .nojekyll
