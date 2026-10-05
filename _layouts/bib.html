@@ -74,10 +74,14 @@
           </div>
 
           <!-- Journal/Book title and date -->
-          {% if entry.type == "article" -%}
+          {%- comment -%} reset: captured variables otherwise leak from the previous entry {%- endcomment -%}
+          {%- assign entrytype = "" -%}
+          {%- assign entrymonth = "" -%}
+          {%- assign entryyear = "" -%}
+          {% if entry.type == "article" and entry.journal -%}
             {%- capture entrytype -%}<em>{{entry.journal}}</em>{%- endcapture -%}
-          {%- elsif entry.type == "inproceedings" -%}
-            {%- capture entrytype -%}<em>In {{entry.booktitle}}</em> {%- endcapture -%}
+          {%- elsif entry.booktitle -%}
+            {%- capture entrytype -%}<em>In {{entry.booktitle}}</em>{%- if entry.type == "incollection" and entry.publisher -%}, {{entry.publisher}}{%- endif -%} {%- endcapture -%}
           {%- endif -%}
           {%- if entry.month -%}
             {%- capture entrymonth -%}{{ " " }}{{ entry.month | capitalize }}{%- endcapture -%}
