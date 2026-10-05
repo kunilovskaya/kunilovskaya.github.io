@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="772cd99f-19a3-4177-8007-9e6a0fd3a16c" name="Default Changelist" comment="remove broken symlinks">
-      <change afterPath="$PROJECT_DIR$/assets/pdf/current_cv.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/pdf/headed_multibib_biblatex.pdf" afterDir="false" />
+    <list default="true" id="772cd99f-19a3-4177-8007-9e6a0fd3a16c" name="Default Changelist" comment="paper.bib fixed LREC">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_bibliography/papers.bib" beforeDir="false" afterPath="$PROJECT_DIR$/_bibliography/papers.bib" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,23 +49,23 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0000419920178856" />
-      <entry key="MS500" value="1.1660800991386826" />
-      <entry key="S2" value="2.501946978094896" />
-      <entry key="S5" value="3.9284405693646263" />
-      <entry key="S10" value="4.7883576158308845" />
-      <entry key="S30" value="5.5477858072712625" />
-      <entry key="S60" value="5.774288260474256" />
-      <entry key="M2" value="6.124894140891668" />
-      <entry key="M5" value="8.637918347680786" />
-      <entry key="M10" value="12.823986244031238" />
-      <entry key="M15" value="15.611597857474509" />
-      <entry key="M30" value="21.765399060462798" />
-      <entry key="H1" value="45.929189831666214" />
-      <entry key="H2" value="115.74800058782363" />
-      <entry key="H4" value="212.54391863386974" />
-      <entry key="D1" value="372.0066030919385" />
-      <entry key="W1" value="411.0622854591471" />
+      <entry key="MS100" value="1.0000043831484582" />
+      <entry key="MS500" value="1.1029898868283308" />
+      <entry key="S2" value="2.2127336455724875" />
+      <entry key="S5" value="3.893902283230067" />
+      <entry key="S10" value="5.330346298301341" />
+      <entry key="S30" value="6.910986965903247" />
+      <entry key="S60" value="7.426272860919279" />
+      <entry key="M2" value="7.7955226872512355" />
+      <entry key="M5" value="9.621437610155073" />
+      <entry key="M10" value="14.048368158921557" />
+      <entry key="M15" value="17.998856561757155" />
+      <entry key="M30" value="26.699245895064568" />
+      <entry key="H1" value="50.308023861923296" />
+      <entry key="H2" value="117.63785953664403" />
+      <entry key="H4" value="215.31187694179113" />
+      <entry key="D1" value="382.6846546314549" />
+      <entry key="W1" value="424.5364545768805" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -73,37 +73,37 @@
       <entry key="S2" value="0.0" />
       <entry key="S5" value="0.0" />
       <entry key="S10" value="0.0" />
-      <entry key="S30" value="2.8904142560328276E-111" />
-      <entry key="S60" value="7.045930662750564E-56" />
-      <entry key="M2" value="3.672408233842446E-28" />
-      <entry key="M5" value="1.6003522801688412E-11" />
-      <entry key="M10" value="5.652255127338159E-6" />
-      <entry key="M15" value="3.997010131099964E-4" />
-      <entry key="M30" value="0.02827079211535063" />
-      <entry key="H1" value="0.2377786314173491" />
-      <entry key="H2" value="0.6896021683676378" />
-      <entry key="H4" value="1.1743934200355746" />
-      <entry key="D1" value="1.8301801232150032" />
-      <entry key="W1" value="1.9748077703693472" />
+      <entry key="S30" value="2.315010364583102E-122" />
+      <entry key="S60" value="1.9940442413584507E-61" />
+      <entry key="M2" value="6.178017934958501E-31" />
+      <entry key="M5" value="1.2432969775452653E-12" />
+      <entry key="M10" value="1.5754382988393652E-6" />
+      <entry key="M15" value="1.7055129080947775E-4" />
+      <entry key="M30" value="0.018467064153952398" />
+      <entry key="H1" value="0.19217759913643276" />
+      <entry key="H2" value="0.6199598843897957" />
+      <entry key="H4" value="1.1135150581028086" />
+      <entry key="D1" value="1.8140151725492673" />
+      <entry key="W1" value="1.9723065198465433" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9659763323003876" />
-      <entry key="MS500" value="1.157658114722742" />
-      <entry key="S2" value="2.497129608631906" />
-      <entry key="S5" value="3.9254171678488285" />
-      <entry key="S10" value="4.786521708252239" />
-      <entry key="S30" value="5.547079302895332" />
-      <entry key="S60" value="5.773920659680352" />
-      <entry key="M2" value="6.1246674202691995" />
-      <entry key="M5" value="8.63715029196997" />
-      <entry key="M10" value="12.822653152012789" />
-      <entry key="M15" value="15.610617929273708" />
-      <entry key="M30" value="21.792527680001562" />
-      <entry key="H1" value="46.16592087521005" />
-      <entry key="H2" value="116.43654486199003" />
-      <entry key="H4" value="213.71743641020595" />
-      <entry key="D1" value="373.83654342373967" />
-      <entry key="W1" value="413.0370556863396" />
+      <entry key="MS100" value="0.9659405335299777" />
+      <entry key="MS500" value="1.0952512843790838" />
+      <entry key="S2" value="2.1903567950473115" />
+      <entry key="S5" value="3.8107231482470842" />
+      <entry key="S10" value="5.238563391287188" />
+      <entry key="S30" value="6.858832818261143" />
+      <entry key="S60" value="7.396459569647874" />
+      <entry key="M2" value="7.779579905992087" />
+      <entry key="M5" value="9.614727008535885" />
+      <entry key="M10" value="14.044617279462473" />
+      <entry key="M15" value="17.99617204025288" />
+      <entry key="M30" value="26.71582631731761" />
+      <entry key="H1" value="50.49878252294025" />
+      <entry key="H2" value="118.25658171880521" />
+      <entry key="H4" value="216.4244182942816" />
+      <entry key="D1" value="384.4984082030432" />
+      <entry key="W1" value="426.50872018243115" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -266,7 +266,7 @@
       <workItem from="1787664982242" duration="6982000" />
       <workItem from="1790352963984" duration="2647000" />
       <workItem from="1790543823557" duration="4031000" />
-      <workItem from="1791211811257" duration="7914000" />
+      <workItem from="1791211811257" duration="10410000" />
     </task>
     <task id="LOCAL-00104" summary="_posts update">
       <created>1749809780973</created>
@@ -611,7 +611,7 @@
       <option name="project" value="LOCAL" />
       <updated>1783366498777</updated>
     </task>
-    <option name="localTasksCounter" value="172" />
+    <option name="localTasksCounter" value="175" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -630,8 +630,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="bib still with technical fields" />
-    <MESSAGE value="mastodon" />
     <MESSAGE value="schlagmangel" />
     <MESSAGE value="job update" />
     <MESSAGE value="june update" />
@@ -655,6 +653,8 @@
     <MESSAGE value="deploy.yml update" />
     <MESSAGE value="grants names in cv" />
     <MESSAGE value="remove broken symlinks" />
-    <option name="LAST_COMMIT_MESSAGE" value="remove broken symlinks" />
+    <MESSAGE value="cv and pubs updated" />
+    <MESSAGE value="paper.bib fixed LREC" />
+    <option name="LAST_COMMIT_MESSAGE" value="paper.bib fixed LREC" />
   </component>
 </project>
