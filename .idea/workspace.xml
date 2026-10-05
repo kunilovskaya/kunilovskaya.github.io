@@ -4,11 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="772cd99f-19a3-4177-8007-9e6a0fd3a16c" name="Default Changelist" comment="main EMNLP-2026!">
+    <list default="true" id="772cd99f-19a3-4177-8007-9e6a0fd3a16c" name="Default Changelist" comment="papers">
+      <change afterPath="$PROJECT_DIR$/current_cv.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headed_multibib_biblatex.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_bibliography/papers.bib" beforeDir="false" afterPath="$PROJECT_DIR$/_bibliography/papers.bib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/pdf/12-June-2025_CV.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/pdf/2017-2025_headed_multibib_biblatex.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/pdf/22-06-2025_cv.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/pdf/22-06-2025_publications_by_year.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/pdf/current_cv.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/pdf/current_cv.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/pdf/headed_multibib_biblatex.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/pdf/headed_multibib_biblatex.pdf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,9 +22,10 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="18185" />
+    <option name="cachedIndexableFilesCount" value="18191" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -50,61 +57,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.0" />
-      <entry key="S5" value="1.0" />
-      <entry key="S10" value="1.0" />
-      <entry key="S30" value="1.0" />
-      <entry key="S60" value="1.0000000000003553" />
-      <entry key="M2" value="1.0000013281679632" />
-      <entry key="M5" value="1.0136471394745143" />
-      <entry key="M10" value="1.3748762531605574" />
-      <entry key="M15" value="2.2060510579911927" />
-      <entry key="M30" value="5.031232456164179" />
-      <entry key="H1" value="8.477445679321624" />
-      <entry key="H2" value="11.219819314732861" />
-      <entry key="H4" value="12.958115505188177" />
-      <entry key="D1" value="14.636415377729891" />
-      <entry key="W1" value="14.947458504359995" />
+      <entry key="MS100" value="1.3851365466890935" />
+      <entry key="MS500" value="2.1553367191875967" />
+      <entry key="S2" value="3.932277982252702" />
+      <entry key="S5" value="6.072388314866772" />
+      <entry key="S10" value="8.291116997137784" />
+      <entry key="S30" value="11.522923668775912" />
+      <entry key="S60" value="14.898404847088445" />
+      <entry key="M2" value="24.183906794395067" />
+      <entry key="M5" value="41.80170190145844" />
+      <entry key="M10" value="53.17607029036172" />
+      <entry key="M15" value="61.558240769452816" />
+      <entry key="M30" value="97.55403147567634" />
+      <entry key="H1" value="166.97726334851026" />
+      <entry key="H2" value="241.61169499422243" />
+      <entry key="H4" value="297.83499535387676" />
+      <entry key="D1" value="358.87685096798504" />
+      <entry key="W1" value="370.93894678100287" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="0.0" />
-      <entry key="S2" value="0.0" />
-      <entry key="S5" value="0.0" />
-      <entry key="S10" value="0.0" />
-      <entry key="S30" value="0.0" />
-      <entry key="S60" value="0.0" />
-      <entry key="M2" value="0.0" />
-      <entry key="M5" value="0.0" />
-      <entry key="M10" value="0.0" />
-      <entry key="M15" value="0.0" />
-      <entry key="M30" value="0.0" />
-      <entry key="H1" value="0.0" />
-      <entry key="H2" value="0.0" />
-      <entry key="H4" value="0.0" />
-      <entry key="D1" value="0.0" />
-      <entry key="W1" value="0.0" />
+      <entry key="MS100" value="7.032251447321001E-28" />
+      <entry key="MS500" value="3.710384168290271E-6" />
+      <entry key="S2" value="0.04388890236708279" />
+      <entry key="S5" value="0.2863888673813937" />
+      <entry key="S10" value="0.538209130845721" />
+      <entry key="S30" value="0.9571328411290086" />
+      <entry key="S60" value="1.2821665094065668" />
+      <entry key="M2" value="1.5665850736813114" />
+      <entry key="M5" value="1.803918056515482" />
+      <entry key="M10" value="1.8976773011174257" />
+      <entry key="M15" value="1.9307927228762485" />
+      <entry key="M30" value="1.9648897142389328" />
+      <entry key="H1" value="1.9823161724639076" />
+      <entry key="H2" value="1.9911256586438593" />
+      <entry key="H4" value="1.9955546901462324" />
+      <entry key="D1" value="1.9992579818330458" />
+      <entry key="W1" value="1.9998939696171627" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="3.320886853394029E-6" />
-      <entry key="MS500" value="0.0802141185976815" />
-      <entry key="S2" value="0.5321850912266799" />
-      <entry key="S5" value="0.7770072687840496" />
-      <entry key="S10" value="0.88148015790717" />
-      <entry key="S30" value="0.9588209475810837" />
-      <entry key="S60" value="0.9791940295885071" />
-      <entry key="M2" value="0.9895436604703499" />
-      <entry key="M5" value="1.0094458766654903" />
-      <entry key="M10" value="1.3726966781150152" />
-      <entry key="M15" value="2.2044701385582055" />
-      <entry key="M30" value="5.030212778477857" />
-      <entry key="H1" value="8.476791211245487" />
-      <entry key="H2" value="11.219433569946855" />
-      <entry key="H4" value="12.957903937039404" />
-      <entry key="D1" value="14.636377093028226" />
-      <entry key="W1" value="14.947452954865765" />
+      <entry key="MS100" value="1.3222335194075818" />
+      <entry key="MS500" value="2.1320921120882694" />
+      <entry key="S2" value="3.933566442833268" />
+      <entry key="S5" value="6.264951790546403" />
+      <entry key="S10" value="8.740768204279608" />
+      <entry key="S30" value="12.414752818126443" />
+      <entry key="S60" value="16.126673819379977" />
+      <entry key="M2" value="25.71148721252492" />
+      <entry key="M5" value="43.58455592109475" />
+      <entry key="M10" value="55.06183578277963" />
+      <entry key="M15" value="63.48062914758021" />
+      <entry key="M30" value="99.5140339366727" />
+      <entry key="H1" value="168.95647656646668" />
+      <entry key="H2" value="243.6008723001598" />
+      <entry key="H4" value="299.82941091531995" />
+      <entry key="D1" value="360.8758867895273" />
+      <entry key="W1" value="372.9388080592972" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -122,27 +129,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "master",
-    "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "/home/maria/main/proj/github/kunilovskaya/_news",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "to.speed.mode.migration.done": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/maria/main/proj/github/kunilovskaya&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/_news" />
@@ -264,7 +271,10 @@
       <workItem from="1782720541533" duration="31000" />
       <workItem from="1783338918858" duration="5304000" />
       <workItem from="1785547668248" duration="236000" />
-      <workItem from="1787664982242" duration="5742000" />
+      <workItem from="1787664982242" duration="6982000" />
+      <workItem from="1790352963984" duration="2647000" />
+      <workItem from="1790543823557" duration="4031000" />
+      <workItem from="1791211811257" duration="971000" />
     </task>
     <task id="LOCAL-00104" summary="_posts update">
       <created>1749809780973</created>
@@ -609,7 +619,7 @@
       <option name="project" value="LOCAL" />
       <updated>1783366498777</updated>
     </task>
-    <option name="localTasksCounter" value="155" />
+    <option name="localTasksCounter" value="164" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -628,11 +638,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="date and italics fix" />
-    <MESSAGE value="bibtex filtering for bib" />
-    <MESSAGE value="limit pubs on front page to 2" />
-    <MESSAGE value="filter bib" />
-    <MESSAGE value="filter bib, fix errors" />
     <MESSAGE value="fix error in bib.html" />
     <MESSAGE value="fix error in selected_papers.html,asterisk" />
     <MESSAGE value="still problem with replace" />
@@ -653,6 +658,11 @@
     <MESSAGE value="minor bib fixes" />
     <MESSAGE value="books update" />
     <MESSAGE value="main EMNLP-2026!" />
-    <option name="LAST_COMMIT_MESSAGE" value="main EMNLP-2026!" />
+    <MESSAGE value="Ruassias invasion fix" />
+    <MESSAGE value="pic size change and test" />
+    <MESSAGE value="tba" />
+    <MESSAGE value="wmt" />
+    <MESSAGE value="papers" />
+    <option name="LAST_COMMIT_MESSAGE" value="papers" />
   </component>
 </project>
