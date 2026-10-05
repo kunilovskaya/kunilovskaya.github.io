@@ -106,9 +106,9 @@
             {%- if entry.bibtex_show == "true" -%}
               <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
             {%- endif -%}
-          {%- if entry.url %}
+          {%- if entry.url %}{% unless entry.eprint and entry.url contains entry.eprint %}
             <a href="{{ entry.url }}" class="btn btn-sm z-depth-0" role="button">URL</a>
-          {%- endif %}
+          {%- endunless %}{% endif %}
 
             {%- if entry.doi %}
               <a href="https://doi.org/{{ entry.doi }}" class="btn btn-sm z-depth-0" role="button">DOI</a>

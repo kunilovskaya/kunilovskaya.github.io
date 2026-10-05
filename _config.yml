@@ -235,6 +235,9 @@ scholar:
 
   query: "@*"
 
+  # site-only fields, hidden from the BibTeX shown under the Bib button
+  bibtex_skip_fields: [abstract, month_numeric, abbr, selected, bibtex_show, pdf, supp, poster, slides, code, blog, website]
+
 
 # -----------------------------------------------------------------------------
 # Responsive WebP Images
