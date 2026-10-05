@@ -41,6 +41,6 @@ In the past few years, I was involved in several computational humanities projec
     <li>translation quality estimation, data annotation</li>
     <li>languages varieties, register studies, text complexity</li>
 </ul>
-Download <a href="assets/pdf/current_cv.pdf" target="blank">curriculum vitae</a>, 
-<a href="assets/pdf/headed_multibib_biblatex.pdf" target="blank">publications (2017-current)</a>
+Download <a href="{{ 'assets/pdf/current_cv.pdf' | relative_url }}" target="blank">curriculum vitae</a>, 
+<a href="{{ 'assets/pdf/headed_multibib_biblatex.pdf' | relative_url }}" target="blank">publications (2017-current)</a>
 <!--- ; <a href="../../../latex/kunilovskaya_europass_13Apr2022.pdf" target="blank">Europass</a> --->
