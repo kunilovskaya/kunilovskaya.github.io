@@ -42,5 +42,5 @@ In the past few years, I was involved in several computational humanities projec
     <li>languages varieties, register studies, text complexity</li>
 </ul>
 Download <a href="assets/pdf/current_cv.pdf" target="blank">curriculum vitae</a>, 
-<a href="assets/pdf/headed_multibib_biblatex.pdf" target="blank">publications (2017-current)</a>
+publications: <a href="assets/pdf/headed_multibib_full.pdf" target="blank">by year</a>, <a href="assets/pdf/by_type.pdf" target="blank">by type</a>
 <!--- ; <a href="../../../latex/kunilovskaya_europass_13Apr2022.pdf" target="blank">Europass</a> --->
