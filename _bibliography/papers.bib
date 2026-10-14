@@ -31,6 +31,7 @@
 
 
 @inproceedings{kunilovskaya-etal-2026-epic,
+	abstract = {This paper introduces an updated and combined version of the bidirectional English–German EPIC-UdS (spoken) and EuroParl-UdS (written) corpora containing original European Parliament speeches as well as their translations and interpretations. The new version corrects metadata and text errors identified through previous use, refines the content, updates linguistic annotations, and adds new layers, including word alignment and word-level surprisal indices. The combined resource is designed to support research using information-theoretic approaches to language variation, particularly studies comparing written and spoken modes, and examining disfluencies in speech, as well as traditional translationese studies, including parallel (source vs. target) and comparable (original vs. translated) analyses. The paper outlines the updates introduced in this release, summarises previous results based on the corpus, and presents a new illustrative study. The study validates the integrity of the rebuilt spoken data and evaluates probabilistic measures derived from base and fine-tuned GPT-2 and machine translation models on the task of filler particles prediction in interpreting.},
 	abbr={LREC-2026},
 	title = {EPIC-EuroParl-UdS: Information-Theoretic Perspectives on Translation and Interpreting},
 	author = {Kunilovskaya, Maria and Pollklaesener, Christina},
@@ -67,7 +68,7 @@
 	abbr={TBA},
 	author = {Alyukov, Maxim and Kunilovskaya, Maria and Semenov, Andrei},
 	title = {{Confuse and Normalise: Authoritarian Propaganda in a High-Choice Media Environment during Russia's Invasion of Ukraine}},
-	booktitle = {Russian Propaganda Today: Challenges, Effectiveness, and Resistance},
+	booktitle = {Autocracy, Influence, War: Russian Propaganda Today},
 	editor = {Paul Goode},
 	pages = {in print},
 	publisher = {University of Michigan Press},
@@ -90,6 +91,7 @@
 }
 
 @inproceedings{kunilovskaya2025information,
+	abstract = {The present paper reports on differences between written and spoken translation in English and German using Kullback-Leibler Divergence (KLD), an information-theoretic measure that captures the divergence of a given probability distribution from a reference distribution. While most studies comparing translation and interpreting focus on the target side only, we also take into account the source texts: we analyse differences between written and spoken translation renditions of the same source texts. The innovation of our approach is in the use of a source language model as an approximation of a cross-lingual modelling approach. Our results confirm the tendencies reported in previous work without same-source-text settings—namely, that interpreted targets differ more from their sources than written translations.},
     abbr={KONVENS-2025},
 	author    = {Maria Kunilovskaya and Sharid Lo{\'a}iciga and Ekaterina Lapshinova-Koltunski},
 	title     = {Information Divergence in Translation and Interpreting: Findings from Same-Source Texts},
@@ -107,6 +109,7 @@
 }
 
 @inproceedings{pollklaesener2025disfluency,
+	abstract = {This study investigates the occurrence of sentence-initial filler particles (e.g. euh, hum) in simultaneously interpreted and original speeches using a bidirectional English-German corpus of European Parliament debates. We assume that sentence-initial filler particles indicate planning difficulties at the conceptual level, whereas sentence-medial filler particles mark hesitations over syntactic structure or lexical access. Since interpreters convey the source speech and do not plan their own message, we expect differences between interpreting and original speeches. We operationalise conceptual complexity as average word surprisal per sentence and local lexical or syntactic production problems as surprisal of the word following the filler particle. Our findings indicate that sentence-initial filler particles appear in sentences with higher conceptual complexity but are not well associated with local retrieval difficulty.},
     abbr={Interspeech-2025},
 	author = {Pollkl\"asener, Christina and Kunilovskaya, Maria},
 	title     = {Euh...where do interpreters hesitate? An information-theoretic perspective on
@@ -121,8 +124,24 @@
 	bibtex_show={true}
 }
 
+@article{pollklaesener_2025_surprisal,
+    abbr={SKASE-2025},
+	title = {Surprisal explains the occurrence of filler particles in simultaneous interpreting},
+	author = {Christina Pollkl{\"a}sener and Maria Kunilovskaya and Elke Teich},
+	abstract = {We present a set of studies on filler particles in interpreting in the language pair English-German, asking whether, and if so to what extent, surprisal can explain their occurrence. It is widely acknowledged that filler particles are associated with planning effort in monolingual production, but their occurrence in interpreting has not been fully investigated. Surprisal is a measure from information theory that estimates the information content (in bits) of a unit (e.g. a word) in the context of other linguistic units (e.g. n preceding words). Importantly, there is abundant evidence that surprisal is proportional to cognitive effort, measured independently in behavioural experiments, which provides a useful tool for explaining the link between linguistic choice and language cognition. Looking at the words preceding and following a filler particle in the target language output, we investigate surprisal as a predictor of filler particle occurrence, placing a special focus on function words vs. content words that follow filler particles. Overall, our analysis shows that surprisal of following words is a good predictor of filler particles in interpreting.},
+	journal = {SKASE Journal of Translation and Interpreting, Special issue: Empirical translation and interpreting studies},
+	volume = {18},
+	number = {2},
+	pages = {55--78},
+	year = {2025},
+	url = {https://zenodo.org/records/17242254},
+	selected={true},
+	bibtex_show={true},
+}
+
 
 @inproceedings{kunilovskaya2025predictability,
+	abstract = {The paper presents the results of a free translation experiment, which was set up to explore Slavic cross-language intelligibility. In the experiment, native speakers of Russian were asked to read a sentence in one of the five Slavic languages and return a Russian translation of a highlighted item. The experiment is focused on microsyntactic units because they offer an increased intercomprehension difficulty due to opaque semantics. Each language is represented by at least 50 stimuli, and each stimulus has generated at least 20 responses. The levels of intercomprehension are captured by categorising participants’ responses into seven types of translation solutions (paraphrase, correct, fluent_literal, awkward_literal, fantasy, noise, and empty), generally reflecting the level of the cross-linguistic intelligibility of the stimuli. The study aims to reveal linguistic factors that favour intercomprehension across Slavic languages. We use regression and correlation analysis to identify the most important intercomprehension predictors and statistical analysis to bring up the most typical cases and outliers. We explore several feature types that reflect the properties of the translation tasks and their outcomes, including point-wise phonological and orthographic distances, cosine similarities, surprisals, translation quality scores and translation solution entropy indices. The experimental data confirms the expected gradual increase of intelligibility from West-Slavic to East-Slavic languages for the speakers of Russian. We show that intelligibility is highly contingent on the ability of speakers to recognise and interpret formal similarities between languages as well as on the size of these similarities. For several Slavic languages, the context sentence complexity was a significant predictor of intelligibility.},
     abbr={NoDaLiDa-2025},
     author={Kunilovskaya, Maria and Zaitova, Iuliia and Xue, Wei and Stenger, Irina and Avgustinova, Tania},
 	title={{Predictability of Microsyntactic Units across Slavic Languages: A translation-based Study}},
@@ -137,6 +156,7 @@
 
 
 @inproceedings{Kunilovskaya2024prompting,
+	abstract = {Translations differ in systematic ways from texts originally authored in the same language. These differences, collectively known as translationese, can pose challenges in cross-lingual natural language processing: models trained or tested on translated input might struggle when presented with non-translated language. Translationese mitigation can alleviate this problem. This study investigates the generative capacities of GPT-4 to reduce translationese in human-translated texts. The task is framed as a rewriting process aimed at modified translations indistinguishable from the original text in the target language. Our focus is on prompt engineering that tests the utility of linguistic knowledge as part of the instruction for GPT-4. Through a series of prompt design experiments, we show that GPT4-generated revisions are more similar to originals in the target language when the prompts incorporate specific linguistic instructions instead of relying solely on the model’s internal knowledge. Furthermore, we release the segment-aligned bidirectional German-English data built from the Europarl corpus that underpins this study.},
     abbr={EAMT-2024},
     author = {Kunilovskaya, Maria and Chowdhury, Koel Dutta and Przybyl, Heike and {Espa{\~{n}}a i Bonet}, Cristina and {Van Genabith}, Josef},
     title = {{Mitigating Translationese with GPT-4: Strategies and Performance}},
@@ -152,6 +172,7 @@
 }
 
 @inproceedings{Kunilovskaya2023readability,
+	abstract = {This paper explores the readability of translated and interpreted texts compared to the original source texts and target language texts in the same domain. It was shown in the literature that translated and interpreted texts could exhibit lexical and syntactic properties that make them simpler, and hence, easier to process than their sources or comparable non-translations. In translation, this effect is attributed to the tendency to simplify and disambiguate the message. In interpreting, it can be enhanced by the temporal and cognitive constraints. We use readability annotations from the Newsela corpus to formulate a number of classification and regression tasks and fine-tune a multilingual pre-trained model on these tasks, obtaining models that can differentiate between complex and simple sentences. Then, the models are applied to predict the readability of sources, targets, and comparable target language originals in a zero-shot manner. Our test data – parallel and comparable – come from English-German bidirectional interpreting and translation subsets from the Europarl corpus. The results confirm the difference in readability between translated/interpreted targets against sentences in standard originally-authored source and target languages. Besides, we find consistent differences between the translation directions in the English-German language pair.},
     abbr={TSAR-2023},
     author = {Kunilovskaya, Maria and Mitkov, Ruslan and Wandl-Vogt, Eveline},
     booktitle = {Proceedings of the Workshop on Text Simplification, Accessibility, and Readability (TSAR-2023)},
@@ -168,6 +189,7 @@
 }
 
 @inproceedings{Kunilovskaya2023parallel,
+	abstract = {We explore the relationship between information density/surprisal of source and target texts in translation and interpreting in the language pair English-German, looking at the specific properties of translation (“translationese”). Our data comes from two bidirectional English-German subcorpora representing written and spoken mediation modes collected from European Parliament proceedings. Within each language, we (a) compare original speeches to their translated or interpreted counterparts, and (b) explore the association between segment-aligned sources and targets in each translation direction. As additional variables, we consider source delivery mode (read-out, impromptu) and source speech rate in interpreting. We use language modelling to measure the information rendered by words in a segment and to characterise the cross-lingual transfer of information under various conditions. Our approach is based on statistical analyses of surprisal values, extracted from n-gram models of our dataset. The analysis reveals that while there is a considerable positive correlation between the average surprisal of source and target segments in both modes, information output in interpreting is lower than in translation, given the same amount of input. Significantly lower information density in spoken mediated production compared to non-mediated speech in the same language can indicate a possible simplification effect in interpreting.},
     abbr={RANLP},
     author = {Kunilovskaya, Maria and Przybyl, Heike and Teich, Elke and Lapshinova-Koltunski, Ekaterina},
     booktitle = {Proceedings of the International Conference on Recent Advances in Natural Language Processing},
@@ -259,13 +281,13 @@
     author = {Kunilovskaya, Maria and Kuzmenko, Elizaveta},
     title = {{Multilingual Embeddings for Clustering Cultural Events}},
     booktitle = {Analysis of Images, Social Networks and Texts},
-    pages = {1--10},
+    pages = {84--96},
     publisher = {Springer LNCS},
     volume = {13217},
     year = {2021},
     bibtex_show={true},
-    doi = {10.18653/v1/2023.latechclfl-1.17},
-    url={https://aclanthology.org/2021.latechclfl-1.12.pdf}
+    doi = {10.1007/978-3-031-16500-9_8},
+    url={https://doi.org/10.1007/978-3-031-16500-9_8}
 }
 
 @inproceedings{Kunilovskaya2021lit,
@@ -413,13 +435,23 @@ bibtex_show={true},
     year = {2017}
 }
 
+@inproceedings{Kunilovskaya2017dm,
+    author = {Kunilovskaya, Maria},
+    booktitle = {Corpus Linguistics 2017 Conference},
+    address = {Birmingham, UK},
+    publisher = {University of Birmingham},
+    title = {{Frequency distribution and usage of discourse markers in English to Russian translation: learner vs. professional translational behavior}},
+    url = {https://www.birmingham.ac.uk/documents/college-artslaw/corpus/conference-archives/2017/general/paper345.pdf},
+    year = {2017}
+}
+
 @inproceedings{Kunilovskaya2017conn,
     author = {Kunilovskaya, Maria},
     booktitle = {Computational Linguistics and Intellectual Technologies: Proceedings of the International Conference “Dialogue 2017”},
     keywords = {cohesion,connectives,frequency distribution,interference,paral-lel corpora,translation quality assessment,translation universals,translational learner corpora},
     pages = {221--233},
     title = {{Linguistic tendencies in English to Russian translation: the case of connectives}},
-    url = {http://www.dialog-21.ru/media/3920/kunilovskayama.pdf},
+    url = {https://dialogue-conf.org/media/3920/kunilovskayama.pdf},
     volume = {2},
     year = {2017}
 }

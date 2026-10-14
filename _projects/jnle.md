@@ -3,7 +3,7 @@ layout: page
 title: JNLE 
 description: EB member + editorial office
 img: assets/img/nle_cover.jpg
-importance: 2
+importance: 5
 category: work
 ---
 UpD: I left the Editorial Assistants Team in March 2024. Being part of the editorial process in an NLP Journal was a great experience.

@@ -15,6 +15,8 @@ bundle exec jekyll build          # build into _site/ (what bin/cibuild runs)
 - Deployment is automatic: `.github/workflows/deploy.yml` runs `bin/deploy` on push to `master`, which builds the site and pushes `_site` to the `gh-pages` branch. PRs build with `--no-push`. Do not commit to `gh-pages` by hand.
 - CI uses Ruby 3.0.2. `_plugins/exists_patch.rb` restores the `File.exists?` alias removed in newer Rubies; keep it.
 - `_site/`, `.jekyll-cache/`, `vendor/` are build/install artifacts.
+- The build needs ImageMagick installed: `jekyll-imagemagick` (enabled in `_config.yml`) generates 480/800/1400px `.webp` variants of every image in `assets/img/`, which `_includes/figure.html` serves as responsive `srcset`s.
+- Only `.github/workflows/deploy.yml` is live CI. `.travis.yml` and the top-level `workflows/mastodon.yml` (which triggers on `main`, not `master`) are not run (GitHub only runs workflows under `.github/workflows/`).
 
 ## How the content fits together
 

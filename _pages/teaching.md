@@ -6,13 +6,19 @@ description: This page describes my most recent teaching only
 nav: true
 ---
 
+##### Winter Semester 2024-2025
+* Natural Language Generation and Evaluation (NLGAD), MSci, University of Technology Nuremberg (planned co-teaching with Prof. Dr. Steffen Eger)
+
+##### Summer Semester 2026
+* Deep Learning for Digital Humanities / Deep Learning in NLP for Social Sciences (DLDH+SocSci), MA, Goethe University Frankfurt and University of Technology Nuremberg (co-taught with Prof. Dr. Daniela Grunow)
+
 ##### Summer Semester 2025
-* seminar: Quality in Human and Machine Translation
-* (co-teaching) BA Abschlussarbeit Kolloquium
+* seminar: Quality in Human and Machine Translation (QHMT)
+* BA Abschlussarbeit Kolloquium (co-taught with Prof. Dr. Anne-Marie Verkerk) 
 * an invited session: HS Empirical Linguistics and Translatology (+ LAB)
 * invited sessions: MA Research Seminar
 
-##### Winter Semester 2024
+##### Winter Semester 2024-2025
 * invited sessions: HS Empirical Linguistics and Translatology (+ LAB)
 * invited talk (Information Theory course for PhD students): Application of Information Theory in Translation(ese) Studies
 * invited lecture Vorlesung VL Perspektiven der Linguistik, BA Language Science: Translation and Interpreting Studies,
@@ -51,8 +57,16 @@ See <a href="../../../latex/all_teaching.pdf" target="blank">a list of modules</
 
 ### advanced training
 In July 2021 I completed the three-module programme of Postgraduate Certificate "Academic Practice in Higher Education"
-and was awarded a Fellowship in Higher Education Academy (<a href="../../../assets/pdf/Maria Kunilovskaya_FHEA.pdf" target="blank">FHEA</a>)
-This is a <a href="https://youtu.be/g8CbG7WtHeI" target="blank">video of my introduction</a> for one of the modules.
+and was awarded a Fellowship in Higher Education Academy (<a href="../../../assets/pdf/Maria Kunilovskaya_FHEA.pdf" target="blank">FHEA</a>).
+Below is a video of my introduction for one of the modules.
+
+<div class="row justify-content-sm-center">
+  <div class="col-sm-10 mt-3 mt-md-0">
+    <div class="embed-responsive embed-responsive-16by9 rounded z-depth-1">
+      <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/g8CbG7WtHeI" title="Video introduction for a module of the PGCert in Academic Practice in Higher Education" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+  </div>
+</div>
 
 
 <!-- 

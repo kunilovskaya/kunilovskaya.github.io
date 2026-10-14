@@ -9,6 +9,10 @@ nav: true
 ### latest participation in conferences, workshops
 
 ##### -- talks/posters
+* 28 Oct 2026 [WMT 2026](https://www2.statmt.org/wmt26/), Budapest: [Translationese as a Rational Response to Translation Task Difficulty](https://aclanthology.org/2026.wmt-1.22)
+* 25 Oct 2026 [EMNLP 2026](https://2026.emnlp.org/), Budapest: [Who Annotates in NLP? A Large-scale Assessment of Human Annotation Reporting between 2018 and 2025](https://arxiv.org/abs/2606.02255)
+* 22 Oct 2026 InFER, Frankfurt am Main
+* 14 May 2026 [LREC 2026](https://lrec2026.info/), Palma de Mallorca: [EPIC-EuroParl-UdS: Information-Theoretic Perspectives on Translation and Interpreting](http://www.lrec-conf.org/proceedings/lrec2026/pdf/2026.lrec2026-1.557.pdf)
 * 18 Feb 2026 NLLG Retreat poster
 * 06 Feb 2026 Prediction in Interpreting, B7 WS
 
@@ -17,9 +21,6 @@ nav: true
 * 09 May 2025 [Forli](https://dit.unibo.it/it/eventi/second-forli-international-workshop-on-corpus-based-interpreting-studies-and-applications-at-the-interface-of-data-and-technology)
 * 03 Mar 2025 [NoDaLiDa](https://www.nodalida-bhlt2025.eu/), a poster
 * 13-15 Feb 2025 [RAILS](https://sfb1102.uni-saarland.de/sfb-conference-2025/) with three posters
-* 17 Dec 2024: an invited talk at the research seminar, [Language Technology Group](https://www.mn.uio.no/ifi/english/research/groups/ltg/research-seminar/), University of Oslo 
-* 23 Feb 2024: a talk at the 1st Roundtable on NLP for Luxembourg(ish), University of Luxembourg
-* 01 Dec 2023: an invited talk at Conversations Series, Culture & Computation Lab (University of Luxemburg)
 * 07 Sep 2023 [TSAR](https://tsar-workshop.github.io/program/) at RANLP
 * 03 Sep 2023 [RANLP](http://ranlp.org/ranlp2023/index.php/ps04/)
 * 05 May 2023: [LaTeCH-CLfL](https://sighum.wordpress.com/events/latech-clfl-2023/) at EACL
@@ -77,18 +78,25 @@ see results for *mak* under [Russian-English](https://www.statmt.org/wmt20/quali
 
 ---
 
-### schools and research visits
-0. Summer School on Deep Learning in NLP (at RANLP in Varna, 30 August - 1 September 2023)
-1. Understanding and Modelling Linguistic Variability Summer school, University of Potsdam (Aug 2023)
-2. Information Theory course, Saarland University, Dept of Language Science & Technology (Feb 2023)
-2. Nordic winter school in NLP (February 2020, Oslo, Norway)
-2. Invited talk at a research seminar, *Centre for Translation Studies*, University of Leeds (January 2020)
+### research visits and invited talks
+* Invited talk (forthcoming), Institut für Slavistik, Universität Münster: *From Linguistic Fingerprints to Cognitive Explanation of Translationese* (December 2026)
+* Invited talk at the research seminar, [Language Technology Group](https://www.mn.uio.no/ifi/english/research/groups/ltg/research-seminar/), University of Oslo (17 December 2024)
+* Talk at the 1st Roundtable on NLP for Luxembourg(ish), University of Luxembourg (23 February 2024)
+* Invited talk at the Conversations Series, Culture & Computation Lab, University of Luxembourg (1 December 2023)
+* Invited talk at a research seminar, *Centre for Translation Studies*, University of Leeds (January 2020)
 <!-- invited and attended by Jeremy Munday -->
-3. Summer School on Deep Learning in NLP, as part of the 12th RANLP conference (RANLP 2019)
-4. Research visit to English Translation Science research group, University of Saarland (October-November 2018)
-5. European Summer School in Logic, Language and Information (August 2018, Sofia, Bulgaria)
-6. Moscow-Tartu Digital Humanities School *Texts. Nets. Maps* by Higher School of Economics (October 9-12 2017, Voronovo)
-7. Research visit to *Language Technology Group*, University of Oslo (October 2017)
-8. Corpus Linguistics Summer School 2017 (Birmingham University)
-9. Statistics for Corpus Linguistics 2016 (summer school, Lancaster University)
-10. Research visit to *Centre for Translation Studies*, University of Leeds (October 2014)
+* Research visit to English Translation Science research group, University of Saarland (October-November 2018)
+* Research visit to *Language Technology Group*, University of Oslo (October 2017)
+* Research visit to *Centre for Translation Studies*, University of Leeds (October 2014)
+
+### schools
+* Workshop *What Does Leadership Involve?*, organised by SFB 1102, Saarland University (4-5 April 2024, two-day professional development workshop)
+* Summer School on Deep Learning in NLP (at RANLP in Varna, 30 August - 1 September 2023)
+* Understanding and Modelling Linguistic Variability Summer school, University of Potsdam (Aug 2023)
+* Information Theory course, Saarland University, Dept of Language Science & Technology (Feb 2023)
+* Nordic winter school in NLP (February 2020, Oslo, Norway)
+* Summer School on Deep Learning in NLP, as part of the 12th RANLP conference (RANLP 2019)
+* European Summer School in Logic, Language and Information (August 2018, Sofia, Bulgaria)
+* Moscow-Tartu Digital Humanities School *Texts. Nets. Maps* by Higher School of Economics (October 9-12 2017, Voronovo)
+* Corpus Linguistics Summer School 2017 (Birmingham University)
+* Statistics for Corpus Linguistics 2016 (summer school, Lancaster University)
