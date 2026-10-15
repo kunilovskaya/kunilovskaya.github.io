@@ -152,8 +152,6 @@ exclude:
   - assets/pdf/*.odt
   - assets/pdf/en_kunilovskaya_CV_Sept11-2023.pdf
   - assets/pdf/abstract_elsewhere.pdf
-  - assets/pdf/headed_multibib_biblatex.pdf
-  - assets/pdf/headed_multibib_full.pdf
 keep_files:
   - CNAME
   - .nojekyll
