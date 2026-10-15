@@ -6,7 +6,7 @@ description: This page describes my most recent teaching only
 nav: true
 ---
 
-##### Winter Semester 2024-2025
+##### Winter Semester 2026-2027
 * Natural Language Generation and Evaluation (NLGAD), MSci, University of Technology Nuremberg (planned co-teaching with Prof. Dr. Steffen Eger)
 
 ##### Summer Semester 2026
