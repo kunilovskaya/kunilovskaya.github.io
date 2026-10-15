@@ -145,6 +145,11 @@ exclude:
   - Gemfile.lock
   - vendor
   - CLAUDE.md
+  - README.md
+  - CONTRIBUTING.md
+  - latex
+  - workflows
+  - assets/pdf/*.odt
 keep_files:
   - CNAME
   - .nojekyll
