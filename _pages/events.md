@@ -81,7 +81,7 @@ see results for *mak* under [Russian-English](https://www.statmt.org/wmt20/quali
 ### research visits and invited talks
 * Invited talk (forthcoming), Institut für Slavistik, Universität Münster: *From Linguistic Fingerprints to Cognitive Explanation of Translationese* (December 2026)
 * Invited talk at the research seminar, [Language Technology Group](https://www.mn.uio.no/ifi/english/research/groups/ltg/research-seminar/), University of Oslo (17 December 2024)
-* Talk at the 1st Roundtable on NLP for Luxembourg(ish), University of Luxembourg (23 February 2024)
+* Talk at the 1st Roundtable on NLP for Luxembourg(ish), University of Luxembourg (23 February 2024), [slides](../assets/pdf/kunilovskaya_Lux_round_23Feb2024_talk.pdf)
 * Invited talk at the Conversations Series, Culture & Computation Lab, University of Luxembourg (1 December 2023)
 * Invited talk at a research seminar, *Centre for Translation Studies*, University of Leeds (January 2020)
 <!-- invited and attended by Jeremy Munday -->
