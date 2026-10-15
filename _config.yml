@@ -150,6 +150,8 @@ exclude:
   - latex
   - workflows
   - assets/pdf/*.odt
+  - assets/pdf/current_cv.pdf
+  - assets/pdf/en_kunilovskaya_CV_Sept11-2023.pdf
 keep_files:
   - CNAME
   - .nojekyll
