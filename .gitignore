@@ -27,3 +27,6 @@ vendor
 .github
 news_template
 CLAUDE.md
+.~lock.*#
+assets/pdf/abstract_elsewhere.pdf*
+assets/pdf/en_kunilovskaya_CV_Sept11-2023.pdf
